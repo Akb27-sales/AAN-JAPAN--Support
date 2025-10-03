@@ -1,26 +1,48 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>AAN Japan Support</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AAN Japan - Support</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; line-height: 1.6; }
+    pre, code { background: #f4f4f4; padding: 4px 6px; border-radius: 4px; }
+    h1, h2, h3 { margin-top: 30px; }
+    a { color: #0366d6; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
 </head>
 <body>
-  <div id="app">Loading AAN Japan Support…</div>
+  <main id="app">Loading AAN Japan Support...</main>
 
   <script>
-    window.$docsify = {
-      name: 'AAN Japan — Support',
-      repo: 'https://github.com/Akb27-sales/AAN-JAPAN--Support',
-      loadSidebar: true,
-      subMaxLevel: 2,
-      auto2top: true,
-      search: 'auto'
-    };
-  </script>
+    const md = `
+# Support
+A short explanatory text block (not question–answer, but a mini-article).
+It looks more professional (similar to AWS, IBM, Microsoft Docs).
+The content is presented in concise reference blocks.
+It can be expanded without limitation — each topic becomes a “mini-article.”
+This format is suitable for B2B and international clients, which increases trust.
 
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+## Table of Contents
+- [General (1)](#general-1)
+- [Account & Dashboard (2)](#account--dashboard-2)
+- [Contract Review & Deposit (3)](#contract-review--deposit-3)
+- [Bank Details & Payments (4)](#bank-details--payments-4)
+- [Wholesale Supply of Spare Parts (Japan) (5)](#wholesale-supply-of-spare-parts-japan-5)
+- [Export of Spare Parts (Wholesale) (6)](#export-of-spare-parts-wholesale-6)
+- [Export of Complete Vehicles (7)](#export-of-complete-vehicles-7)
+- [Scrap Metal (8)](#scrap-metal-8)
+- [Auctions: How They Work (9)](#auctions-how-they-work-9)
+
+---
+
+## General (1)
+...и так далее, весь ваш текст тут...
+`;
+
+    document.getElementById("app").innerHTML = marked.parse(md);
+  </script>
 </body>
 </html>
