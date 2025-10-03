@@ -1,143 +1,144 @@
----
-Support
-A short explanatory text block (not question–answer, but a mini-article).
-It looks more professional (similar to AWS, IBM, Microsoft Docs).
-The content is presented in concise reference blocks.
-It can be expanded without limitation — each topic becomes a “mini-article.”
-This format is suitable for B2B and international clients, which increases trust.
+# Support
+
+A short explanatory text block (not question–answer, but a mini-article).  
+It looks more professional (similar to AWS, IBM, Microsoft Docs).  
+The content is presented in concise reference blocks.  
+It can be expanded without limitation — each topic becomes a “mini-article.”  
+This format is suitable for B2B and international clients, which increases trust.  
+
 ---
 
 # Topics & Subsections
 
-## [General (1)](#general-1)
-- [Our Core Business](#our-core-business)  
-- [Company History](#company-history)  
-- [Values & Success Factors](#values--success-factors)  
-- [Licensing & Compliance](#licensing--compliance)  
-- [Equipment Portfolio](#equipment-portfolio)  
-- [Global Trade & Markets](#global-trade--markets)  
-- [Visiting Us (Access & Facilities)](#visiting-us-access--facilities)  
-- [Visa Application Support](#visa-application-support)  
+- [General (1)](#general-1)
+  - [Our Core Business](#our-core-business)
+  - [Company History](#company-history)
+  - [Values & Success Factors](#values--success-factors)
+  - [Licensing & Compliance](#licensing--compliance)
+  - [Equipment Portfolio](#equipment-portfolio)
+  - [Global Trade & Markets](#global-trade--markets)
+  - [Visiting Us (Access & Facilities)](#visiting-us-access--facilities)
+  - [Visa Application Support](#visa-application-support)
 
-## [Account & Dashboard (2)](#account--dashboard-2)
-- [Create an Account](#create-an-account)  
-- [Dashboard Functions (after login)](#dashboard-functions-after-login)  
-- [Account Tools & Monitoring](#account-tools--monitoring)  
-- [Dormant & Deletion](#dormant--deletion)  
+- [Account & Dashboard (2)](#account--dashboard-2)
+  - [Create an Account](#create-an-account)
+  - [Dashboard Functions (after login)](#dashboard-functions-after-login)
+  - [Account Tools & Monitoring](#account-tools--monitoring)
+  - [Dormant & Deletion](#dormant--deletion)
 
-## [Contract Review & Deposit (3)](#contract-review--deposit-3)
-- [Contract Review](#contract-review)  
-- [Initial Deposit Requirement](#initial-deposit-requirement)  
-- [Business Line Deposits](#initial-deposit-requirement)  
-- [Why a Deposit is Required](#why-a-deposit-is-required)  
-- [Initial Deposit Amounts](#initial-deposit-amounts)  
-- [Deposit Refund Policy](#deposit-refund-policy)  
-- [Deposit Process](#deposit-process)  
-- [Activation Timeline](#activation-timeline)  
+- [Contract Review & Deposit (3)](#contract-review--deposit-3)
+  - [Contract Review](#contract-review)
+  - [Initial Deposit Requirement](#initial-deposit-requirement)
+  - [Business Line Deposits](#business-line-deposits)
+  - [Why a Deposit is Required](#why-a-deposit-is-required)
+  - [Initial Deposit Amounts](#initial-deposit-amounts)
+  - [Deposit Refund Policy](#deposit-refund-policy)
+  - [Deposit Process](#deposit-process)
+  - [Activation Timeline](#activation-timeline)
 
-## [Bank Details & Payments (4)](#bank-details--payments-4)
-- [Domestic Bank Transfers (Japan)](#domestic-bank-transfers-japan)  
-- [International Bank Transfers](#international-bank-transfers)  
-- [Currency Rules](#currency-rules)  
-- [Payment Methods](#payment-methods)  
-- [Proof of Payment & Dashboard Upload](#proof-of-payment--dashboard-upload)  
-- [Processing Timeline](#processing-timeline)  
-- [Refund Rules](#refund-rules)  
-- [Compliance & Security](#compliance--security)  
+- [Bank Details & Payments (4)](#bank-details--payments-4)
+  - [Domestic Bank Transfers (Japan)](#domestic-bank-transfers-japan)
+  - [International Bank Transfers](#international-bank-transfers)
+  - [Currency Rules](#currency-rules)
+  - [Payment Methods](#payment-methods)
+  - [Proof of Payment & Dashboard Upload](#proof-of-payment--dashboard-upload)
+  - [Processing Timeline](#processing-timeline)
+  - [Refund Rules](#refund-rules)
+  - [Compliance & Security](#compliance--security)
 
-## [Wholesale Supply of Spare Parts (Japan) (5)](#wholesale-supply-of-spare-parts-japan-5)
-- [Sourcing](#sourcing)  
-- [Reservation Options](#reservation-options)  
-- [Product Sets](#product-sets)  
-- [What’s Included / Excluded (Standards)](#product-sets)  
-- [Individual Parts](#individual-parts)  
-- [Wholesale-Only Parts](#wholesale-only-parts)  
-- [Restrictions](#restrictions)  
-- [Packaging Options](#packaging-options)  
-- [Wheels (Optional Sales)](#wheels-optional-sales)  
-- [Auction Process for Tuning Wheels](#auction-process-for-tuning-wheels)  
-- [Pickup & Collection Policy](#pickup--collection-policy)  
-- [Sales Completion & Compensation (Unified Policy)](#sales-completion--compensation-unified-policy)  
-- [Special Orders](#special-orders)  
-- [Pricing & Payments](#pricing--payments)  
-- [Dashboard Statuses](#dashboard-statuses)  
+- [Wholesale Supply of Spare Parts (Japan) (5)](#wholesale-supply-of-spare-parts-japan-5)
+  - [Sourcing](#sourcing)
+  - [Reservation Options](#reservation-options)
+  - [Product Sets](#product-sets)
+  - [What’s Included / Excluded (Standards)](#whats-included--excluded-standards)
+  - [Individual Parts](#individual-parts)
+  - [Wholesale-Only Parts](#wholesale-only-parts)
+  - [Restrictions](#restrictions)
+  - [Packaging Options](#packaging-options)
+  - [Wheels (Optional Sales)](#wheels-optional-sales)
+  - [Auction Process for Tuning Wheels](#auction-process-for-tuning-wheels)
+  - [Pickup & Collection Policy](#pickup--collection-policy)
+  - [Sales Completion & Compensation (Unified Policy)](#sales-completion--compensation-unified-policy)
+  - [Special Orders](#special-orders)
+  - [Pricing & Payments](#pricing--payments)
+  - [Dashboard Statuses](#dashboard-statuses)
 
-## [Export of Spare Parts (Wholesale) (6)](#export-of-spare-parts-wholesale-6)
-- [General](#general)  
-- [Deposit Requirement](#deposit-requirement)  
-- [Prices & Payments](#prices--payments)  
-- [Reservations & Backorders](#reservations--backorders)  
-- [Auction Agent Orders](#auction-agent-orders)  
-- [Export Policy – Wholesale Only](#export-policy--wholesale-only)  
-- [Dismantling Services](#dismantling-services)  
-- [Packaging & Loading](#packaging--loading)  
-- [Account Integration](#account-integration)  
-- [Issue Invoice](#issue-invoice)  
-- [Delivery & Incoterms](#delivery--incoterms)  
-- [Input Consignee & Notify Party Details through Dashboard](#input-consignee--notify-party-details-dashboard)  
-- [Export & Shipping Documents](#export--shipping-documents)  
-- [Customer-Borne Costs (examples)](#customer-borne-costs-examples)  
-- [ETAs](#etas)  
-- [Inspections & Claims](#inspections--claims)  
-- [Container Tracking & Status Updates](#container-tracking--status-updates)  
-- [Amendment & Cancellations](#amendments--cancellations)  
-- [After-Sales Support](#after-sales-support)  
-- [Communication Channels](#communication-channels)  
+- [Export of Spare Parts (Wholesale) (6)](#export-of-spare-parts-wholesale-6)
+  - [General](#general)
+  - [Deposit Requirement](#deposit-requirement)
+  - [Prices & Payments](#prices--payments)
+  - [Reservations & Backorders](#reservations--backorders)
+  - [Auction Agent Orders](#auction-agent-orders)
+  - [Export Policy – Wholesale Only](#export-policy--wholesale-only)
+  - [Dismantling Services](#dismantling-services)
+  - [Packaging & Loading](#packaging--loading)
+  - [Account Integration](#account-integration)
+  - [Issue Invoice](#issue-invoice)
+  - [Delivery & Incoterms](#delivery--incoterms)
+  - [Input Consignee & Notify Party Details through Dashboard](#input-consignee--notify-party-details-through-dashboard)
+  - [Export & Shipping Documents](#export--shipping-documents)
+  - [Customer-Borne Costs (examples)](#customer-borne-costs-examples)
+  - [ETAs](#etas)
+  - [Inspections & Claims](#inspections--claims)
+  - [Container Tracking & Status Updates](#container-tracking--status-updates)
+  - [Amendment & Cancellations](#amendment--cancellations)
+  - [After-Sales Support](#after-sales-support)
+  - [Communication Channels](#communication-channels)
 
-## [Export of Complete Vehicles (7)](#export-of-complete-vehicles-7)
-- [Overview](#overview)  
-- [Deposit Requirement](#deposit-requirement-1)  
-- [Vehicle Sourcing](#vehicle-sourcing)  
-- [Vehicle Condition & Information](#vehicle-condition--information)  
-- [Auction Agent – Order Flow](#auction-agent--order-flow)  
-- [Stock Vehicles – Order Flow](#stock-vehicles--order-flow)  
-- [Inspections & Certificates (Optional / Destination-Driven)](#inspections--certificates-optional--destination-driven)  
-- [Inland Logistics (Japan)](#inland-logistics-japan)  
-- [Issue Invoice](#issue-invoice-1)  
-- [Commercial Terms](#commercial-terms)  
-- [Cancellations (Auction / Stock)](#cancellations-auction--stock)  
-- [Shipping Options (Incoterms 2020)](#shipping-options-incoterms-2020)  
-- [Ro-Ro Shipment](#ro-ro-shipment)  
-- [Container Shipment](#container-shipment)  
-- [Lashing & Securing](#lashing--securing)  
-- [Export & Shipping Documents](#export--shipping-documents-1)  
-- [Amendments & Delays](#amendments--delays)  
-- [Claims](#claims)  
-- [After-Sales Support](#after-sales-support-1)  
-- [Communication Channels](#communication-channels-1)  
+- [Export of Complete Vehicles (7)](#export-of-complete-vehicles-7)
+  - [Overview](#overview)
+  - [Deposit Requirement](#deposit-requirement-1)
+  - [Vehicle Sourcing](#vehicle-sourcing)
+  - [Vehicle Condition & Information](#vehicle-condition--information)
+  - [Auction Agent – Order Flow](#auction-agent--order-flow)
+  - [Stock Vehicles – Order Flow](#stock-vehicles--order-flow)
+  - [Inspections & Certificates (Optional / Destination-Driven)](#inspections--certificates-optional--destination-driven)
+  - [Inland Logistics (Japan)](#inland-logistics-japan)
+  - [Issue Invoice](#issue-invoice-1)
+  - [Commercial Terms](#commercial-terms)
+  - [Cancellations (Auction / Stock)](#cancellations-auction--stock)
+  - [Shipping Options (Incoterms 2020)](#shipping-options-incoterms-2020)
+  - [Ro-Ro Shipment](#ro-ro-shipment)
+  - [Container Shipment](#container-shipment)
+  - [Lashing & Securing](#lashing--securing)
+  - [Export & Shipping Documents](#export--shipping-documents-1)
+  - [Amendments & Delays](#amendments--delays)
+  - [Claims](#claims)
+  - [After-Sales Support](#after-sales-support-1)
+  - [Communication Channels](#communication-channels-1)
 
-## [Scrap Metal (8)](#scrap-metal-8)
-- [Overview](#overview-1)  
-- [What We Accept](#what-we-accept)  
-- [What We Don’t Accept](#what-we-dont-accept)  
-- [Who Can Deliver](#who-can-deliver)  
-- [Delivery Process](#delivery-process)  
-- [Pricing & Transparency](#pricing--transparency)  
-- [Settlement & Payment](#settlement--payment)  
+- [Scrap Metal (8)](#scrap-metal-8)
+  - [Overview](#overview-1)
+  - [What We Accept](#what-we-accept)
+  - [What We Don’t Accept](#what-we-dont-accept)
+  - [Who Can Deliver](#who-can-deliver)
+  - [Delivery Process](#delivery-process)
+  - [Pricing & Transparency](#pricing--transparency)
+  - [Settlement & Payment](#settlement--payment)
 
-## [Auctions: How They Work (9)](#auctions-how-they-work-9)
-- [History of Development](#history-of-development)  
-- [Auction Systems](#auction-systems)  
-- [Bidding Structure](#bidding-structure)  
-- [Purchase Methods](#purchase-methods)  
-- [Auction Types](#auction-types)  
-- [Auction Corners](#auction-corners)  
-- [Auction Sheets](#auction-sheets)  
-- [Competing Bids from Our Clients](#competing-bids-from-our-clients)  
-- [Auction Bills](#auction-bills)  
-- [Auction Results](#auction-results)  
-- [Start Price & Desired Price](#start-price--desired-price)  
-- [Cancelling a Mistaken Purchase](#cancelling-a-mistaken-purchase)  
-- [Auction Cars vs Stock Cars](#auction-cars-vs-stock-cars)  
-- [Land Transportation](#land-transportation)  
-- [Combined Ferry – Land Delivery](#combined-ferry--land-delivery)  
-- [Cars from Satellite Auctions](#cars-from-satellite-auctions)  
-- [Cars from AUCNET](#cars-from-aucnet)  # A.A.N. Japan Co., Ltd. — Support Documentation
-
+- [Auctions: How They Work (9)](#auctions-how-they-work-9)
+  - [History of Development](#history-of-development)
+  - [Auction Systems](#auction-systems)
+  - [Bidding Structure](#bidding-structure)
+  - [Purchase Methods](#purchase-methods)
+  - [Auction Types](#auction-types)
+  - [Auction Corners](#auction-corners)
+  - [Auction Sheets](#auction-sheets)
+  - [Competing Bids from Our Clients](#competing-bids-from-our-clients)
+  - [Auction Bills](#auction-bills)
+  - [Auction Results](#auction-results)
+  - [Start Price & Desired Price](#start-price--desired-price)
+  - [Cancelling a Mistaken Purchase](#cancelling-a-mistaken-purchase)
+  - [Auction Cars vs Stock Cars](#auction-cars-vs-stock-cars)
+  - [Land Transportation](#land-transportation)
+  - [Combined Ferry – Land Delivery](#combined-ferry--land-delivery)
+  - [Cars from Satellite Auctions](#cars-from-satellite-auctions)
+  - [Cars from AUCNET](#cars-from-aucnet)
 ## General (1)
 
 ### Our Core Business
-A.A.N. Japan Co., Ltd., established in 2013, operates in the automotive recycling and export industry. Our services cover the full cycle — from sourcing vehicles in Japan to delivering complete shipments worldwide.
+A.A.N. Japan Co., Ltd., established in 2013, operates in the automotive recycling and export industry.  
+Our services cover the full cycle — from sourcing vehicles in Japan to delivering complete shipments worldwide.
 
 **Business areas:**
 - Wholesale supply of spare parts (Japan) – distribution of dismantled auto parts to local buyers and workshops.  
@@ -151,81 +152,83 @@ A.A.N. Japan Co., Ltd., established in 2013, operates in the automotive recyclin
 ---
 
 ### Company History
-A.A.N. Japan is a Japanese company specializing in automotive recycling and export since 2013. Our story mirrors the evolution of the entire industry — from the early stages of Japan’s recycling system to global recognition.  
+A.A.N. Japan is a Japanese company specializing in automotive recycling and export since 2013.  
+Our story mirrors the evolution of the entire industry:
 
-- **2000–2005** – The foundation of the industry. Japan introduced the Automobile Recycling Act with mandatory standards for airbags, refrigerants, and batteries.  
-- **2006–2010** – Standards and licensed yards emerged. The future founders arrived in Japan, gained experience in used tire trading, and discovered the growing auto dismantling sector.  
+- **2000–2005** – Japan introduced the Automobile Recycling Act with mandatory standards for airbags, refrigerants, and batteries.  
+- **2006–2010** – Licensed dismantling yards emerged; future founders arrived in Japan and discovered the growing auto dismantling sector.  
 - **2013** – Establishment of A.A.N. Japan in Yachimata, Chiba. First milestones included securing a dismantling license and opening the initial yard.  
-- **2015** – Relocation to Yotsukaidō, Chiba — one of Japan’s key hubs for auto dismantling, strategically close to Tokyo, Yokohama, and Narita Airport.  
-- **2015–2020** – Growth period. Export of spare parts boomed. Expanded from 2 to 50+ employees, invested in machinery and facilities, introduced a Morita hydraulic press for scrap processing.  
-- **2020–2023** – Pandemic and global instability challenged the industry. Despite this, A.A.N. Japan received multiple awards and recognitions from national associations and government authorities.  
-- **Future** – Focus on digital transformation (ERP, Big Data, AI, Smart Yard), ESG initiatives (EV and battery recycling, green logistics), and globalization through new partnerships.  
+- **2015** – Relocation to Yotsukaidō, Chiba — one of Japan’s key hubs for auto dismantling, close to Tokyo, Yokohama, and Narita Airport.  
+- **2015–2020** – Growth period: expanded from 2 to 50+ employees, invested in machinery, introduced Morita hydraulic press.  
+- **2020–2023** – Pandemic challenges; A.A.N. Japan received awards and recognition from associations and government.  
+- **Future** – Focus on digital transformation (ERP, AI, Smart Yard), ESG initiatives (EV & battery recycling, green logistics), and globalization.  
 
 ---
 
 ### Values & Success Factors
-We live in a world of rapid change, where the market shifts faster than ever. Our strength comes from five core values that guide our path, decisions, and culture:
+We live in a world of rapid change. Our strength comes from five core values:
 
-1. **Discipline** – Stability is built on consistency, not chance. We focus on long-term reliability and quality, not short-term gains.  
-2. **Dedication** – True quality comes from combining professionalism with passion. Every detail matters, and we put our heart and hands into the work.  
-3. **Client Growth = Our Growth** – We invest in long-term partnerships, helping clients succeed and grow together with us.  
-4. **Technology** – Digital tools and innovation make us resilient, adaptable, and future-ready.  
-5. **Attraction Through Quality** – Quality and consistency naturally build trust, drawing the right partners and opportunities.  
+- **Discipline** – Stability is built on consistency, not chance.  
+- **Dedication** – True quality comes from combining professionalism with passion.  
+- **Client Growth = Our Growth** – We invest in long-term partnerships.  
+- **Technology** – Digital tools and innovation make us resilient and adaptable.  
+- **Attraction Through Quality** – Quality and consistency naturally build trust.  
 
 ---
 
 ### Licensing & Compliance
-A.A.N. JAPAN Co., Ltd. operates fully in accordance with Japanese law and holds the required government permits under the Automobile Recycling Act (自動車リサイクル法) and related regulations.
+A.A.N. JAPAN Co., Ltd. operates fully in accordance with Japanese law and holds all required permits:
 
-- **Dismantler Permit (解体業許可)**  
-  Authorizes dismantling of end-of-life vehicles (ELVs).  
+- **Dismantler Permit (解体業許可 / Kaitai Gyō Kyoka)** – authorizes dismantling of ELVs.  
   *Permit Number:* 20123003702  
-
-- **Shredder Operator Registry (破砕業者名簿)**  
-  Certification for shredder operations and ASR processing.  
+- **Shredder Operator Registry (破砕業者名簿 / Hasai Gyōsha Meibo)** – certified shredder operator.  
   *Registry Number:* 20124003702  
-
-- **Secondhand Dealer Permit (古物商許可)**  
-  Issued by Chiba Prefecture Public Safety Commission.  
-
-- **Qualified Invoice Issuer Registration (適格請求書発行事業者登録番号)**  
+- **Secondhand Dealer Permit (古物商許可 / Kobutsushō Kyoka)** – allows legal purchase/resale of vehicles and parts.  
+- **Qualified Invoice Issuer Registration (適格請求書発行事業者登録番号)** – registration for Japan’s Consumption Tax system.  
   *Registration Number:* T3040001081149  
-
-- **Corporate Number (法人番号)**  
+- **Corporate Number (法人番号)** – issued by the Japanese government.  
   *Number:* 3040001081149  
 
 ---
 
 ### Equipment Portfolio
-**Excavators**  
-- SUMITOMO SH215X-2 Hydraulic Excavator — 1 unit  
-- KOBELCO Excavators — 2 units  
-- HITACHI Excavator (Claw Type) — 2 units  
-- HITACHI Excavator (Magnet Type) — 1 unit  
+**Excavators:**  
+- SUMITOMO SH215X-2 – 1 unit  
+- KOBELCO – 2 units  
+- HITACHI (Claw Type) – 2 units  
+- HITACHI (Magnet Type) – 1 unit  
 
-**Press & Shredder**  
-- Shredder Press Machine — 1 unit  
+**Press & Shredder:**  
+- Shredder Press Machine – 1 unit  
 
-**Forklifts**  
-- TOYOTA Forklifts — 6 units  
-- TOYOTA Forklifts (Used) — 2 units  
-- UNICARRIERS Forklift — 1 unit  
-- LOGISNEXT Forklifts — 3 units  
-- LOGISNEXT Forklift (5t Type) — 1 unit  
+**Forklifts:**  
+- TOYOTA – 6 units  
+- TOYOTA (Used) – 2 units  
+- UNICARRIERS – 1 unit  
+- LOGISNEXT – 3 units  
+- LOGISNEXT (5t) – 1 unit  
 
-**Caterpillar**  
-- Caterpillar Machine — 1 unit  
+**Caterpillar:**  
+- Caterpillar Machine – 1 unit  
 
-*Total Equipment Units: 20*  
+**Total Units:** 20  
 
 ---
 
 ### Global Trade & Markets
-From March 2021 to August 2024, A.A.N. Japan completed **4,480 shipments** with a total trade value exceeding **USD 50.8M**.  
+From **March 2021 to August 2024**, A.A.N. Japan completed **4,480 shipments** with trade value exceeding **USD 50.8 million**.
 
-**Key Destinations**: USA, Chile, UAE, Jordan, Kazakhstan, Kyrgyzstan, Georgia, Azerbaijan, Kenya, Mongolia, Malaysia, UK, Poland.  
+**Key Destinations:**  
+- North America: USA  
+- South America: Chile  
+- Middle East: UAE, Jordan  
+- Central Asia: Kazakhstan, Kyrgyzstan  
+- Eurasia & Caucasus: Georgia, Azerbaijan  
+- Africa: Kenya  
+- Asia-Pacific: Mongolia, Malaysia  
+- Europe: UK, Poland  
 
-**Export Portfolio (HS Codes)**  
+**Export Portfolio (HS Codes):**  
 - HS 840734 — Engines (USD 27M, 13.9%)  
 - HS 870323 — Passenger vehicles & parts (USD 11.9M, 7.5%)  
 - HS 870829 — Other automotive parts (USD 224K, 5%)  
@@ -237,1291 +240,852 @@ From March 2021 to August 2024, A.A.N. Japan completed **4,480 shipments** with 
 ### Visiting Us (Access & Facilities)
 **Head Office:**  
 349-3 Roppogaoka, Yotsukaidō-shi, Chiba 284-0008, Japan  
-Phone: +81-43-312-2496  
-Business Hours: Mon–Sat, 08:00–18:00 JST (Closed Sun)  
+📞 +81-43-312-2496  
+🕐 Mon–Sat 08:00–18:00 (JST), Closed Sundays  
+🔑 Visits by appointment only.  
+
+**From Narita Airport:** JR Sobu/Keisei Line → Yotsukaidō Station (40–50 min) → taxi (10 min).  
+**From Tokyo Station:** JR Sobu Rapid Line → Yotsukaidō Station (55–65 min) → taxi (10 min).  
+**By Car:** Higashi-Kanto Expressway, exit Yotsukaidō IC (10 min).  
 
 **Facilities:**  
-- Dismantling Yard 1 – Engines & transmissions (263-2 Roppogaoka)  
-- Dismantling Yard 2 – Body parts (349-2 Roppogaoka)  
-- Yard 3 – Dismantling & container loading (396-9 Roppogaoka)  
-- Vehicle Storage Yards – Locations at 263-2, 71-11, 365-9, 346-2 Roppogaoka  
-
-**Access:**  
-- From Narita Airport: JR Sobu or Keisei Line → Yotsukaidō Station → 10 min taxi.  
-- From Tokyo: JR Sobu Rapid Line → Yotsukaidō Station → 10 min taxi.  
-- By car: Higashi-Kanto Expressway → Yotsukaidō IC → 10 min drive.  
+- Multiple dismantling & storage yards in Yotsukaidō, each with specific functions.  
+- Yard addresses: 263-2, 349-2, 396-9, 71-11, 365-9, 346-2 Roppogaoka.  
 
 ---
 
 ### Visa Application Support
-We assist overseas partners with visa documentation:  
+A.A.N. Japan assists overseas customers with visa documentation.  
+
+**Support includes:**  
 - Invitation & guarantee letters.  
-- Schedule of stay.  
-- Guidance on required documents.  
+- Tailored schedule of stay.  
+- Guidance on required documents (passport, forms).  
+- Deposit-based guarantee system (JPY 1,500,000 for new/lower-volume buyers).  
+- Deposit credited toward purchases or refunded if visa denied.  
+## Account & Dashboard (2)
 
-**Deposit Policy for Visa Support:**  
-For new or low-volume buyers: **JPY 1,500,000 deposit** (credited to account, refundable if visa denied).  
+### Create an Account
+To access A.A.N. Japan’s services, clients must first create an account via the company’s official portal.  
+This account provides a secure environment to review contracts, place orders, track shipments, and manage payments.
+
+**Steps:**
+1. Submit company details and trade license.  
+2. Upload identification (passport or corporate documents).  
+3. Provide contact information and preferred communication channel.  
+4. Review & accept the Terms of Use and NDA.  
+5. Await verification (1–3 business days).  
+
+Once verified, the client gains access to the dashboard with customized settings.
 
 ---
 
-## Account & Dashboard (2)# Account & Dashboard (2)
+### Dashboard Functions (after login)
+The dashboard is the primary control panel for clients.  
 
-## Create an Account
+**Key functions:**
+- View order history and current transactions.  
+- Check deposit balances and payment deadlines.  
+- Monitor shipments with ETAs and tracking data.  
+- Access invoices, receipts, and settlement reports.  
+- Upload proof of payments.  
+- Communicate with support via integrated messaging.  
+
+---
+
+### Account Tools & Monitoring
+A.A.N. Japan provides monitoring tools to ensure transparency:
+
+- **Order Tracker:** displays all orders, their financial status, and shipment progress.  
+- **Deposit Ledger:** shows balance, usage, and refund eligibility.  
+- **Compliance Alerts:** notifications if required documents or deadlines are missing.  
+- **Price & Auction Watchlists:** save cars, parts, or corners for quick monitoring.  
+- **Reports:** download financial statements, P&L by order, or shipment summaries.  
+
+---
+
+### Dormant & Deletion
+Accounts may become **dormant** or **deleted** based on inactivity or client request.
+
+- **Dormant status:**  
+  - Triggered if no login or transactions for 6 months.  
+  - Account preserved but access limited.  
+  - Reactivation possible via support.  
+
+- **Deletion:**  
+  - Client may request permanent deletion.  
+  - Outstanding obligations must be settled first.  
+  - Data retention aligned with Japanese corporate law (up to 10 years).  
+## Contract Review & Deposit (3)
+
+### Contract Review
+Before trading begins, every client must review and accept the Service Agreement.  
+This establishes rights and obligations, including compliance with Japanese export regulations, payment terms, and dispute resolution.
+
+**Process:**
+1. Receive draft contract (English or Japanese).  
+2. Review clauses on deposits, payments, and liability.  
+3. Sign electronically or by company seal (inkan).  
+4. Return to A.A.N. Japan for countersignature.  
+
+---
+
+### Initial Deposit Requirement
+A deposit is mandatory for activating a trading account.  
+It serves as both financial security and proof of commitment.
+
+- New clients: **JPY 1,500,000 minimum**.  
+- Returning clients with history: subject to risk profile.  
+- VIP clients: customized deposit amounts on request.  
+
+---
+
+### Business Line Deposits
+Deposits vary depending on the line of business:
+
+- **Wholesale Spare Parts (Japan):** required for local trading.  
+- **Export Spare Parts (Container):** container loading requires upfront coverage.  
+- **Complete Vehicles (Auction & Stock):** mandatory deposit before auction participation.  
+- **Scrap Metal Supply:** deposit ensures compliance with recycling law and delivery obligations.  
+
+---
+
+### Why a Deposit is Required
+- **Guarantee of payment** for purchased vehicles or parts.  
+- **Protection** against sudden cancellations.  
+- **Security** for auction houses, shipping lines, and dismantling yards.  
+- **Fairness** among clients – prevents speculative or unserious orders.  
+
+---
+
+### Initial Deposit Amounts
+- Standard: JPY 1.5M  
+- Auction participation (cars): JPY 500K–1.5M depending on volume.  
+- Container-based exports: JPY 1.5M–3M.  
+- Scrap metal suppliers: JPY 1M.  
+
+---
+
+### Deposit Refund Policy
+Deposits are refundable under the following conditions:
+
+- **Full refund** if account closed with no outstanding balance.  
+- **Partial refund** after deduction of open obligations.  
+- **Non-refundable** if client breached contract or caused penalties.  
+
+Refunds are made via bank transfer to the originally registered account only.
+
+---
+
+### Deposit Process
+1. Client transfers deposit via international or domestic bank transfer.  
+2. Proof of payment uploaded in dashboard.  
+3. Finance team verifies funds received.  
+4. Deposit balance updated in client dashboard.  
+5. Contract status changes to **Active**.  
+
+---
+
+### Activation Timeline
+- Contract review: 1–3 business days.  
+- Deposit transfer: 1–5 business days (international).  
+- Verification & activation: within 24 hours after receipt.  
+- Total estimated time: **3–7 business days**.  
+## Bank Details & Payments (4)
+
+### Domestic Bank Transfers (Japan)
+- Accepted from Japanese corporate and personal accounts.  
+- Processing time: **same-day to 1 business day**.  
+- Bank charges borne by sender.  
+- Deposits and payments credited in JPY only.  
+
+---
+
+### International Bank Transfers
+- SWIFT transfers accepted worldwide.  
+- Processing time: **2–5 business days** depending on country.  
+- Client must cover remittance fees and intermediary bank charges.  
+- Currency conversion handled by receiving bank; client responsible for discrepancies.  
+
+**Bank details provided in contract upon activation.**  
+
+---
+
+### Currency Rules
+- Base currency: **JPY (Japanese Yen)**.  
+- USD or EUR accepted only upon written confirmation.  
+- Exchange rates: based on bank’s daily TT rate.  
+- All invoices issued in JPY; foreign currency invoices only for specific clients.  
+
+---
+
+### Payment Methods
+- **Bank transfer (preferred).**  
+- **No cash or checks accepted.**  
+- Credit cards not supported for large transactions.  
+- Dashboard automatically generates payment references to match transfers.  
+
+---
+
+### Proof of Payment & Dashboard Upload
+- Clients must upload transfer slip or MT103 to dashboard.  
+- Finance team reconciles incoming payment with reference number.  
+- Status updates: **Pending → Verified → Credited**.  
+
+---
+
+### Processing Timeline
+- Domestic transfers: credited within 24h.  
+- International transfers: credited within 48–72h after receipt.  
+- Dashboard reflects updated balances automatically.  
+
+---
+
+### Refund Rules
+Refunds are issued only to the registered account used for deposits/payments.  
+
+- Standard timeline: **5–10 business days**.  
+- Refund currency: JPY only.  
+- All bank charges for refund borne by client unless error caused by A.A.N. Japan.  
+
+---
+
+### Compliance & Security
+- Transactions must comply with Japanese **FSA (Financial Services Agency)** regulations.  
+- KYC checks applied to all accounts.  
+- Suspicious transfers reported under AML/CFT obligations.  
+- Clients must ensure transfers originate from their registered entity.  
+## Wholesale Supply of Spare Parts (Japan) (5)
+
+### Sourcing
+A.A.N. Japan sources dismantled parts from purchased vehicles across Japanese auctions and local yards.  
+Selection criteria include vehicle grade, mileage, accident history, and demand in local Japanese market.  
+
+---
+
+### Reservation Options
+- **Pre-reservation:** clients can request sets before dismantling.  
+- **Post-reservation:** clients reserve parts after dismantling but before local sale.  
+- Reservations secured only after deposit balance is confirmed.  
+
+---
+
+### Product Sets
+Standardized part bundles prepared for workshops and wholesalers.  
+Examples include:  
+- Engine & Transmission Sets.  
+- Suspension Sets.  
+- Door Sets.  
+- Lighting & Electrical Sets.  
+
+---
+
+### What’s Included / Excluded (Standards)
+**Included:**  
+- Major assemblies (engine, gearbox, axles, doors).  
+- Functional parts in tested condition.  
+- Standard accessories (where applicable).  
+
+**Excluded:**  
+- Consumables (oil, coolant, filters).  
+- Hazardous waste (airbags, refrigerants).  
+- Non-tested electronic devices.  
+
+---
+
+### Individual Parts
+Single spare parts available for local wholesale buyers.  
+Stock updated daily in dashboard inventory section.  
+
+---
+
+### Wholesale-Only Parts
+Certain items reserved for wholesale buyers only (no retail):  
+- Engines & transmissions.  
+- Axles & differentials.  
+- Complete body shells.  
+
+---
+
+### Restrictions
+- No retail sales to individual customers.  
+- Purchases require active corporate account.  
+- Parts sold “as-is” with visual inspection allowed.  
+
+---
+
+### Packaging Options
+- Standard: bulk pallets.  
+- Premium: shrink-wrapped and labeled sets.  
+- Export: steel-frame packaging for container loading.  
+
+---
+
+### Wheels (Optional Sales)
+- Alloy and steel wheels available separately.  
+- Sold in sets of 4; no individual wheel sales.  
+- Auction-based pricing applies to tuning wheels.  
+
+---
+
+### Auction Process for Tuning Wheels
+- Tuning & aftermarket wheels sold via internal auction process.  
+- Clients may place bids in dashboard.  
+- Winning bidder receives invoice + pickup instructions.  
+
+---
+
+### Pickup & Collection Policy
+- Clients arrange own transport for local pickups.  
+- Yard visits by appointment only.  
+- Collection requires proof of payment + pickup ticket.  
+
+---
+
+### Sales Completion & Compensation (Unified Policy)
+- All sales final; returns not accepted unless misdelivery proven.  
+- Compensation limited to invoice value of affected items.  
+- Claims must be submitted within 3 days of pickup.  
+
+---
+
+### Special Orders
+- Clients may request specific models or assemblies.  
+- Availability subject to auction purchase.  
+- Lead time: 7–21 days.  
+
+---
+
+### Pricing & Payments
+- Prices listed in dashboard in JPY.  
+- Payment in advance; no credit terms.  
+- VAT/consumption tax applies for domestic buyers.  
+
+---
+
+### Dashboard Statuses
+- **Reserved** – parts set aside pending payment.  
+- **Paid** – funds received, parts allocated.  
+- **Ready for Pickup** – cleared for collection.  
+- **Completed** – transaction closed.  
+## Export of Spare Parts (Wholesale) (6)
+
+### General
+A.A.N. Japan specializes in wholesale export of dismantled auto parts, shipped in containers.  
+This line of business is available only to verified overseas clients with valid deposits.  
+
+---
+
+### Deposit Requirement
+- Minimum deposit: **JPY 1,500,000**.  
+- Deposit covers dismantling, packaging, and booking.  
+- No container release without deposit confirmation.  
+
+---
+
+### Prices & Payments
+- All prices quoted in JPY.  
+- Prices include dismantling & preparation costs.  
+- Payments: **100% in advance** before container release.  
+- Dashboard shows invoice history and pending amounts.  
+
+---
+
+### Reservations & Backorders
+- Clients may reserve parts in advance.  
+- Backorders possible for high-demand engines, transmissions, or suspensions.  
+- Estimated fulfillment time: 2–6 weeks depending on auction supply.  
+
+---
+
+### Auction Agent Orders
+- Clients may request vehicles via auction agent services.  
+- Dismantling arranged after purchase.  
+- Reserved parts integrated into container shipments.  
+
+---
+
+### Export Policy – Wholesale Only
+- Strictly wholesale business line.  
+- No retail sales or small-package shipments.  
+- Containers consolidated at A.A.N. Japan yards only.  
+
+---
+
+### Dismantling Services
+- Full dismantling by licensed staff.  
+- Hazardous components removed per Japanese law.  
+- Assemblies tested before packing.  
+- Dismantling records logged in dashboard.  
+
+---
+
+### Packaging & Loading
+- Standard: palletized parts.  
+- Heavy items: steel frame supports.  
+- Containers: 20FT or 40FHC.  
+- Photos of packed containers uploaded to dashboard.  
+
+---
+
+### Account Integration
+- All invoices, ETAs, and shipping docs stored in dashboard.  
+- Automatic notifications on booking and loading status.  
+- Clients can monitor deposit usage per container.  
+
+---
+
+### Issue Invoice
+- Invoice generated upon finalization of container contents.  
+- Includes HS codes, packing list, and declared value.  
+- Available for download in dashboard.  
+
+---
+
+### Delivery & Incoterms
+- Standard terms: **FOB Japan** or **CFR destination port**.  
+- Client may request DAP with additional charges.  
+- Incoterms 2020 applied.  
+
+---
+
+### Input Consignee & Notify Party Details through Dashboard
+- Client must enter consignee and notify party before booking.  
+- Details locked after issuance of shipping documents.  
+- Changes after lock incur amendment fees.  
+
+---
+
+### Export & Shipping Documents
+- Invoice.  
+- Packing list.  
+- Bill of Lading (BL).  
+- Deregistration certificates (if required).  
+- Certificates of origin (on request).  
+
+---
+
+### Customer-Borne Costs (examples)
+- Destination customs clearance.  
+- Import duties and VAT.  
+- Unloading and inland transport.  
+- Storage and demurrage at destination.  
+
+---
+
+### ETAs
+- Typical lead time: 4–6 weeks (Asia), 6–8 weeks (USA/EU).  
+- Dashboard provides real-time ETAs based on shipping line data.  
+
+---
+
+### Inspections & Claims
+- Pre-shipment inspections arranged if required (e.g., JEVIC, EAA).  
+- Claims for damaged parts must be filed within 7 days of arrival.  
+- Compensation limited to invoice value of affected parts.  
+
+---
+
+### Container Tracking & Status Updates
+- Dashboard integrated with shipping line API.  
+- Clients receive status updates: **Booked → Loaded → Onboard → In Transit → Arrived**.  
+- BL details linked to container number.  
+
+---
+
+### Amendment & Cancellations
+- Changes after booking may incur carrier fees.  
+- Cancellation after dismantling: **deposit forfeited**.  
+- Container cancellation after loading: full costs charged.  
+
+---
+
+### After-Sales Support
+- Post-shipment support available via dashboard ticketing.  
+- Assistance with claims, amendments, and document re-issuance.  
+
+---
+
+### Communication Channels
+- Dashboard messaging system.  
+- Email notifications for critical updates.  
+- Emergency contact for shipment delays or port issues.  
+## Export of Complete Vehicles (7)
 
 ### Overview
-Role-based accounts for buyers/suppliers in Japan and overseas. Registration implies consent to Terms of Use, Privacy Policy, Compliance Policy, and Sanctions & Export Control Policy.
-
-### Process
-1) **Account purpose:** Buy or Sell  
-2) **Country:** Japan or Other country  
-3) **Account holder:** Company or Individual  
-4) **Consent checkbox → Create an account**  
-5) **Confirmation screen:** review → *Edit information* / *Register*
-
-### Flows (Wizard Index)
-- **Customer Local Company (CLC)**  
-  Option A: enter Company Registration No. or Registered Invoice No. → auto-fill legal name, postal address, reg. date, corporate no., invoice no.  
-  Option B: manual entry → Company name, Postal code (*Auto-fill address*), Address, Person in charge, Phone, Fax, Email.
-- **Customer Local Individual (CLI)**  
-  Full name, Postal code (*Auto-fill*), Address, Phone, Fax (opt.), Email.
-- **Customer International Company (CIC)**  
-  Company name, Contact person, Registered address, Phone, Email, Main import commodity, WhatsApp (opt.).
-- **Customer International Individual (CII)**  
-  Contact person, Address, Phone, Email, Main import commodity, WhatsApp (opt.).
-- **Supplier Local Company (SLC)**  
-  Registered Invoice Number (mandatory) → auto-fill legal details; plus Person in charge, Postal code, Phone, Email or Fax.
-- **Supplier International Company (SIC)**  
-  Company name, Contact person, Registered address, Phone, Email.
-
-### Status / Result
-- Each application is reviewed for KYC/compliance.  
-- Possible decline reasons: incomplete/inconsistent info; prior policy breaches; unmet KYC.  
-- If declined → notification + option to re-apply after fixes.
+A.A.N. Japan exports complete vehicles purchased at Japanese auctions or stock vehicles available for direct sale.  
+Services cover sourcing, documentation, shipping, and post-sales support.  
 
 ---
 
-## Dashboard Functions (after login)
-
-### Overview
-Header shows: **Customer registration number / Registration date / Last login / Current balance**.  
-Navigation modules vary by role.
-
-### Menu Modules by Role
-- **All:** Dashboard, Company profile, Account balance, Customer claims, Chat  
-- **CLC/CLI/CIC/CII:** Parts and Vehicles, Purchase & sales history, Reservations  
-- **CIC/CII:** Containers  
-- **SLC:** Scrap metal, Bank details, Purchase & sales history  
-- **SIC:** Bank details
-
-### Status / Result
-Personalized workspace with real-time visibility of orders, balances, and shipments.
+### Deposit Requirement
+- Minimum deposit: **JPY 1,500,000**.  
+- Deposit secures auction participation and vehicle allocation.  
+- Stock vehicle purchases also require advance deposit confirmation.  
 
 ---
 
-## Customer & Supplier Dashboard Management
-
-### Overview
-Edit core business data anytime to keep operations compliant and fast.
-
-### Editable Information
-- **General:** Contact language; additional user details; communication preferences; messaging apps  
-- **Company (CLC/CIC/SIC/SLC):** Registered name & address; reg. number & date (CLC/SLC); Registered invoice number (SLC); contact person; phone/fax/email  
-- **Nature of Business (All):** Parts & Vehicles / Scrap Metal / Products & Services  
-- **Bank Details (SLC):** Bank & branch name/code; account number; account type; cardholder name  
-- **Parts & Vehicles (CIC/CII):** Import country/port; Incoterms; shipment type; consignee; schedule; shipping docs  
-- **Scrap Metal (SLC):** Payment closing day; truck plate numbers; payload capacity
-
-### Status / Result
-Saved changes update downstream workflows (invoicing, export docs, settlements).
+### Vehicle Sourcing
+- Vehicles sourced from nationwide auctions (USS, TAA, CAA, ARAI, etc.).  
+- Stock vehicles offered directly from A.A.N. Japan yards or partner dealers.  
+- Clients may request specific models, mileage ranges, or grades.  
 
 ---
 
-## Account Tools & Monitoring
-
-### Overview
-Operational telemetry in one place.
-
-### Real-Time Panels (by role)
-- **Purchase & sales history (All)** — transaction log  
-- **Account balance (All)** — deposits, settlements  
-- **Reservations (CLC/CLI/CIC/CII)** — pending bookings  
-- **Containers (CIC/CII)** — shipment statuses  
-- **Customer claims (All)** — open/resolved cases  
-- **Chat (All)** — direct line to A.A.N. support
-
-### Status / Result
-Faster decisions, fewer email loops, auditable trace.
+### Vehicle Condition & Information
+- Auction sheets provide details: grade, mileage, condition, accident history.  
+- Stock vehicles offered with full photos, condition notes, and mileage verification.  
+- Optional third-party inspections available before shipping.  
 
 ---
 
-## Account & Login Support
-
-### Overview
-Secure access lifecycle with self-service recovery.
-
-### Process
-- **Credentials delivery:** Login ID + initial password by email → change on first login  
-- **Forgot password:** *Forgot Password* → time-limited reset link  
-- **Troubleshooting:** verify ID/password (case sensitive), try another browser, clear cache, check connection; if persistent → contact **csd@aanjapan.co.jp**
-
-### User ID & Password Rules
-- Keep credentials confidential; add team sub-users via account when needed  
-- Account holder is responsible for actions taken under their login  
-- If compromise suspected → reset password immediately and contact Support
-
-### Status / Result
-Restored access with audit compliance and minimal downtime.
+### Auction Agent – Order Flow
+1. Client selects vehicles to bid on.  
+2. A.A.N. Japan bids on client’s behalf using deposit coverage.  
+3. Winning bids confirmed and invoiced.  
+4. Vehicles delivered to yard for processing and export.  
 
 ---
 
-## Dormant & Deletion
-
-### Overview
-Lifecycle governance for long-inactive accounts.
-
-### Policy
-- **Dormant:** no activity > **4 years (YYYY-MM-DD, JST)** → account may be marked inactive; funds held securely and restorable on request per law  
-- **Deletion:** by request to **csd@aanjapan.co.jp**; some data retained for legal/tax retention; access fully removed
-
-### Status / Result
-Regulatory compliance with recoverability of legitimate balances.# Contract Review & Deposit (3)
-
-## Contract Review
-
-### Overview
-Before account activation and transactions, customers must review and accept a legally binding contract for each business line.  
-
-### Contracts by Business Area
-- **Used Auto Parts (Domestic)**  
-- **Used Auto Parts (Export)**  
-- **Used Car Sales (Export)**  
-- **Scrap Metal Purchase (Domestic)**  
-
-Each defines responsibilities, pricing, payment rules, warranties, claims, and dispute resolution.  
-
-### Status / Result
-Account remains **pending** until the relevant contract is reviewed and accepted.  
+### Stock Vehicles – Order Flow
+1. Client selects from available stock list.  
+2. Invoice issued with agreed terms.  
+3. Payment received.  
+4. Vehicle prepared for shipping.  
 
 ---
 
-## Initial Deposit Requirement
-
-### Overview
-A deposit is required depending on the business line. It secures compliance, enables service activation, and improves transaction flow.  
-
-### Deposit Matrix
-
-| Business Line             | Deposit Amount                     | Notes |
-|----------------------------|------------------------------------|-------|
-| Used Car Sales (Export)    | JPY 100K (≤1M bid)<br>JPY 300K (≤5M)<br>50% (>10M) | Held during relationship; credited to final vehicle invoice upon exit; non-refundable if confirmed purchase canceled after securing vehicle |
-| Used Auto Parts (Export)   | JPY 1,500,000                      | Acts as prepayment balance; deducted from orders |
-| Used Auto Parts (Domestic) | None                               | Standard invoicing and settlement |
-| Scrap Metal (Domestic)     | None                               | Settlement per contract |
+### Inspections & Certificates (Optional / Destination-Driven)
+- JEVIC, EAA, QISJ inspections arranged on request.  
+- Certificates of export roadworthiness available for destinations requiring them.  
+- Shaken deregistration processed for all auction-purchased vehicles.  
 
 ---
 
-## Why a Deposit is Required
-
-### Benefits
-- **Guaranteed Access** – Once deposit is confirmed, account activation is immediate with full access to services.  
-- **Priority Service** – Deposited customers receive sourcing and shipment allocation priority.  
-- **Financial Flexibility** – Deposit serves as prepayment or security guarantee, reducing transfer friction.  
-- **Transparency & Trust** – Deposit is fully recorded in Dashboard; refundable under contract terms.  
-
-### Status / Result
-Deposit creates a transparent, secured business relationship.  
+### Inland Logistics (Japan)
+- Vehicles transported from auction site or dealer to A.A.N. Japan yard.  
+- Yard prepares vehicles for export: deregistration, cleaning, loading.  
+- Transport arranged via licensed carriers.  
 
 ---
 
-## Initial Deposit Amounts
-
-### Vehicle Export
-- Bidding up to **JPY 1,000,000** → Deposit: **JPY 100,000**  
-- Bidding over **JPY 1,000,000 – 5,000,000** → Deposit: **JPY 300,000**  
-- Bidding over **JPY 10,000,000** → Deposit: **50% of bidding limit**  
-
-> AAN Japan may require higher deposits for expensive lots, special equipment, or non-standard vehicles.  
-
-Deposit remains on hold throughout the relationship; credited to the final invoice of the last purchase when business ends.  
-**Non-refundable** if confirmed purchase is canceled after securing the vehicle.  
-
-### Parts Export
-- Fixed deposit: **JPY 1,500,000**  
-- Functions as prepayment; deducted from orders and containers.  
+### Issue Invoice
+- Invoices issued after purchase confirmation.  
+- Includes hammer price, auction fee, inland transport, and export handling.  
+- Available for download in dashboard.  
 
 ---
 
-## Deposit Refund Policy
-
-### Overview
-Deposits are refundable only if no outstanding debts remain.  
-
-### Process
-- Refund processed within **30 business days** of written request (excluding holidays).  
-- Sent **only** to the original remitting account in customer’s name.  
-- All transfer fees/charges are borne by the customer.  
-
-### Status / Result
-Refund restores liquidity while ensuring compliance with settlement obligations.  
+### Commercial Terms
+- Incoterms 2020 applied.  
+- Standard: FOB Japan or CFR destination port.  
+- DAP or CIF available by prior agreement.  
 
 ---
 
-## Deposit Process
-
-### Steps
-1. Log in to Dashboard  
-2. Enter payment details in **Deposit Form** (bank name, amount, reference) → Generate invoice  
-3. Transfer funds to A.A.N. Japan MUFG account  
-4. Upload bank transfer slip (proof of payment) to Dashboard  
-5. After confirmation, deposit reflects in account balance  
-
-### Status / Result
-Funds visible in **Dashboard → Account Balance** after confirmation.  
+### Cancellations (Auction / Stock)
+- Auction purchases: cancellations allowed only under auction rules (penalties apply).  
+- Stock vehicles: cancellations possible until payment confirmation.  
+- Deposits may be forfeited if cancellation violates contract.  
 
 ---
 
-## Activation Timeline
-
-### Conditions
-- Contract accepted  
-- Deposit received (if applicable)  
-
-### Result
-Account status changes **Pending → Active**.  
-Full access enabled: inventory, reservations, dismantling orders, container scheduling, and other services.  # Bank Details & Payments (4)
-
-## Domestic Bank Transfers (Japan)
-
-### Overview
-Domestic customers may settle payments via bank transfer or cash.  
-
-### Bank Information
-- **Bank Name:** 三菱UFJ銀行 (MUFG Bank, Ltd.)  
-- **Branch:** 千葉支店 (Chiba Branch)  
-- **Account Type:** 普通預金 (Futsū Yokin / Savings Account)  
-- **Account Number:** 1179724  
-- **Beneficiary Name:** A.A.N. JAPAN 株式会社  
-
-### Notes
-- Cash payments accepted for domestic deals.  
-- Receipts are issued for all settlements.  
+### Shipping Options (Incoterms 2020)
+- **Ro-Ro shipment** – best for complete running vehicles.  
+- **Container shipment** – for vehicles with parts, dismantled cars, or premium handling.  
 
 ---
 
-## International Bank Transfers
-
-### Beneficiary Bank
-- **Bank:** MUFG Bank, Ltd.  
-- **SWIFT/BIC:** BOTKJPJT (BOTKJPJTXXX)  
-- **Branch Name:** CHIBA BRANCH  
-- **Bank Address:** 2-3-1, Fujimi, Chuo-ku, Chiba-shi, Chiba 260-8636, Japan  
-
-### Beneficiary Account
-- **Account Number:** 270-1179724  
-- **Beneficiary Name & Address:**  
-  A.A.N. JAPAN Co., Ltd.  
-  263-2 Roppogaoka, Yotsukaidō-shi, Chiba 284-0008, Japan  
-  Phone: +81-43-312-2496  
+### Ro-Ro Shipment
+- Vehicles driven onto specialized vessels.  
+- Lower handling cost; faster loading/unloading.  
+- Restrictions: non-runners and damaged cars not accepted.  
 
 ---
 
-## Currency Rules
-
-### Policy
-- All accounts are in **Japanese Yen (JPY)**.  
-- If paid in foreign currency → converted to JPY using **MUFG Bank’s TTB rate** (Telegraphic Transfer Buying) on date of receipt.  
-- Exchange rate differences and bank charges are **customer’s responsibility**.  
-- Conversion rate applied is final and non-disputable.  
+### Container Shipment
+- Vehicles loaded into 20FT or 40FHC containers.  
+- Option to combine with spare parts.  
+- Higher cost but flexible for destinations without Ro-Ro service.  
 
 ---
 
-## Payment Methods
-
-- **Default:** International bank transfer.  
-- **Alternative:** Only if expressly approved by A.A.N. Japan.  
-- **Reference Format:**  
-  `Invoice No. / Chassis No. / Customer ID`  
-  *(Example: INV ERXG-24567 / CHASSIS JZS161-0022176 / CUS CIS-0572)*  
+### Lashing & Securing
+- Vehicles lashed with straps and wooden blocks.  
+- Container loading photos provided in dashboard.  
+- Compliance with international shipping standards.  
 
 ---
 
-## Proof of Payment & Dashboard Upload
-
-### Process
-1. Make payment (domestic or international).  
-2. Upload transfer slip/receipt into **Dashboard → Transactions**.  
-3. After verification, funds are reflected in **Account Balance**.  
-
----
-
-## Processing Timeline
-
-- **Domestic transfers:** T+1 business day (JST).  
-- **International transfers:** T+2–5 business days (JST), depending on sender/intermediary banks.  
-- Dashboard updates upon confirmation.  
+### Export & Shipping Documents
+- Invoice.  
+- Packing list.  
+- Bill of Lading (BL).  
+- Deregistration certificate (抹消登録証明書).  
+- Inspection certificates (if applicable).  
 
 ---
 
-## Refund Rules
-
-### Conditions
-- Refunds only if no outstanding debts remain.  
-- Processed within **30 business days** of written request (YYYY-MM-DD, JST, excluding Japanese holidays).  
-- Sent **only** to original remitting account in customer’s name.  
-- All bank fees/charges are **borne by the customer**.  
+### Amendments & Delays
+- Amendments after BL issuance may incur carrier fees.  
+- Shipping delays communicated via dashboard alerts.  
+- A.A.N. Japan assists with rebooking if required.  
 
 ---
-
-## Compliance & Security
-
-- Payments must be made directly by the registered account holder.  
-- All payments are subject to **AML (Anti-Money Laundering)** and **KYC (Know Your Customer)** under Japanese law.  
-- Transactions screened against sanctions lists (Japan, EU, OFAC/EAR).  
-- Export transactions must comply with export control laws (Japan 外為法, U.S. EAR, EU Dual-Use).  
-- A.A.N. Japan reserves right to reject, suspend, or cancel transactions that may violate compliance rules.  
-
-### Status / Result
-Secure settlement system ensuring regulatory compliance and safe fund transfers.  # Wholesale Supply of Spare Parts (Japan) (5)
-
-## Sourcing
-
-### Overview
-A.A.N. Japan Co., Ltd. supplies dismantled automobile spare parts to the domestic market through certified Japanese auto auctions only.  
-Each purchased vehicle comes with verified service and mileage records.  
-
-### Operations
-- Average acquisition: **50 vehicles/day** across multiple auctions.  
-- Average dismantling: **40–45 vehicles/day**, ensuring consistent flow of traceable parts.  
-
-### Status / Result
-Steady supply of reliable spare parts with full origin traceability.  
-
----
-
-## Reservation Options
-
-### Overview
-Customers may reserve vehicles or parts before arrival at the yard or after inspection on site.  
-
-### Features
-- Dashboard shows **vehicle location** and reservation status.  
-- Prices and availability visible after login.  
-- Reservations secure the item until pickup.  
-
-### Status / Result
-Improved planning and guaranteed allocation for buyers.  
-
----
-
-## Product Sets
-
-### Types
-- **Full Set** – All body panels + engine & transmission.  
-- **Nose-cut Set** – All body panels, no engine & transmission.  
-- **Engine Set** – Engine + transmission.  
-- **Suspension components** – available as add-ons.  
-
-### Standards
-- **Engine Set**: long block (block + head + internals), alternator, starter, A/C compressor, turbo, ECU, wiring harness, transmission (unless excluded).  
-- **Nose Set**: front bumper, fenders, hood, headlights, radiator support, cooling pack, all doors, rear bumper, tail lights, trunk lid (engine & transmission excluded).  
-- **Full Set**: body panels + engine & transmission (unless otherwise noted).  
-
-> Photos and item labels always prevail in case of discrepancy.  
-
----
-
-## Individual Parts
-
-### Overview
-Specialized or tuning components may be sold individually.  
-
-### Examples
-- Spoilers, aero kits  
-- Audio systems, amplifiers  
-- Cameras, sensors  
-- Sports seats, steering wheels  
-- Exhaust mufflers  
-- Sports brake calipers  
-- Adjustable suspension systems  
-
----
-
-## Wholesale-Only Parts
-
-### Bulk-Only Categories
-Some parts are supplied only in lots for efficiency and consistency:  
-- Vehicle jacks  
-- ABS control units  
-- Master brake cylinders (GTC)  
-- Fuel pumps  
-- Engine & transmission mounts  
-
-### Rationale
-Lot-based sales reduce transaction costs and ensure standardized quality.  
-
----
-
-## Restrictions
-
-### Not for Sale
-The following are excluded from customer distribution:  
-- Scrap metal (remaining after dismantling)  
-- Batteries  
-- Wiring harnesses  
-- Catalytic converters  
-- Wheels & tires  
-- Airbags (disposed of per Japanese safety law)  
-
----
-
-## Packaging Options
-
-### Policy
-- **Labor cost:** Free  
-- **Material cost:** Charged to customer  
-
-### Options
-- **Standard:** Stretch film (default)  
-- **Additional:** Bubble wrap for fragile/high-value items  
-
----
-
-## Wheels (Optional Sales)
-
-### Overview
-Wheels sold via **bi-weekly tuning auction** or **bulk wholesale**.  
-
-**Channels:**
-- **Tuning Wheels – Yard Auction (every 2 weeks):**  
-  Premium/aftermarket sets; open bidding at AAN yard.  
-- **General Wheels – Bulk Wholesale:**  
-  Alloy or steel, grouped only by material.  
-
-### Minimum Order
-- Bulk wholesale: **700 pcs/shipment**  
-
-### Sorting Policy
-- No classification by size, tread depth, brand, or pattern.  
-
----
-
-## Auction Process for Tuning Wheels
-
-### Flow
-1. Lot announced with starting price  
-2. Registered buyers bid incrementally  
-3. Highest bid secures lot  
-
-### Advantages
-- **Transparency** – fair market pricing  
-- **Inspection** – on-site preview  
-- **Efficiency** – instant allocation  
-
----
-
-## Pickup & Collection Policy
-
-### Rules
-- **No Domestic Delivery** – all goods must be collected at yard  
-- **Reservation** – specify pickup date in advance  
-- **Prepared Loads** – available same-day evening  
-- **Required** – printed or digital invoice  
-
----
-
-## Sales Completion & Compensation (Unified Policy)
-
-### Rules
-- **Price Hold:** Reservation locks price until pickup date  
-- **Completion:** Sale final at pickup, after inspection & payment  
-- **Failure to Pickup:** Reservation auto-cancelled  
-- **Inspection:** Buyer must inspect on pickup; sales final thereafter  
-
-### Compensation
-- Damage during dismantling → discount before payment  
-- Wear/age marks → not defects  
-- Returns not accepted unless agreed under domestic sales contract  
-
----
-
-## Special Orders
-
-### Overview
-If stock is unavailable, AAN Japan can source vehicles at auction on behalf of customer.  
-Follows separate ordering procedure and contract.  
-
----
-
-## Pricing & Payments
-
-### Domestic Pricing
-- Based on market rates & part condition  
-- Currency: JPY  
-- Consumption Tax: 10%  
-
-### Settlement
-- **At pickup** by bank transfer (per agreed period) or cash (receipt provided)  
-
----
-
-## Dashboard Statuses
-
-### Flow
-- Reserved  
-- In dismantling queue  
-- Ready for pickup  
-- Canceled  
-- Expired  
-- Collected  
-
-### Status / Result
-Transparent reservation lifecycle from dismantling to pickup.  # Export of Spare Parts (Wholesale) (6)
-
-## General
-
-### Overview
-A.A.N. Japan supports wholesale customers worldwide with dismantled auto parts under **Incoterms 2020**.  
-We operate in two modes:  
-- **Auction Agent** – purchase vehicles at Japanese auctions, dismantle, prepare parts for shipment.  
-- **Stock** – select from existing dismantled inventory, ready for export.  
-
----
-
-## Deposit Requirement
-
-### Policy
-- Required deposit: **JPY 1,500,000**  
-- Functions as prepayment balance  
-- Orders deducted directly from deposit  
-- Refund possible if no debts remain (to original remitting account only; bank charges borne by customer)  
-
----
-
-## Prices & Payments
-
-### Auction Agent
-- Costs include: auction hammer, auction fees, service fee, inland transport, dismantling, export prep.  
-
-### Stock
-- Prices shown in dashboard or confirmed by sales team  
-- Fixed once ordered  
-
-### Terms
-- **Currency:** JPY only  
-- **Conversion:** MUFG TTB rate at receipt date  
-- **Method:** International bank transfer (or approved alternative)  
-- **Pre-shipment:** Full payment required before shipping  
-- **Payment plans:** Possible holding of cargo until final settlement  
-
----
-
-## Reservations & Backorders
-
-- **Reservations:** Secure price until shipment  
-- If damage before shipment → options: cancel, replace, or request discount  
-- **Backorders:** Non-cancellable, non-refundable  
-- Complaints must be filed via **Claims Dashboard**  
-
----
-
-## Auction Agent Orders
-
-### Required Order Details
-- Manufacturer (Toyota, Nissan, etc.)  
-- Model (e.g., Prius, Crown)  
-- Body type / Chassis code (ZVW30, JZS161)  
-- Year range (e.g., 2009–2013)  
-- Facelift status (pre-facelift / facelift)  
-- Grade (e.g., Tourer V)  
-
-### Process
-- AAN reviews auction stats → provides **estimated market price** (non-binding)  
-- Final invoice reflects **actual hammer price**  
-
----
-
-## Export Policy – Wholesale Only
-
-### Scope
-- No single vehicle or individual part exports  
-- Full Container Load (FCL) only  
-
-**Capacity:**  
-- 20ft container → ~10 dismantled vehicles  
-- 40ft HC → ~25 dismantled vehicles  
-
-### Required Info
-- Number of vehicles (approx./exact)  
-- Destination country  
-- Destination port  
-
----
-
-## Dismantling Services
-
-### Formats
-- Half-cut, nose-cut, or per custom part list (submitted in Dashboard)  
-
-### Notes
-- Some parts may require cutting (extra charge)  
-- Excluded from export: windshields, batteries, airbags, hybrid batteries  
-- Catalysts & wheels not sold from stock  
-
-### Combined Containers
-- Auction Agent + Stock can be consolidated  
-- Parts may be repositioned to optimize loading  
-
----
-
-## Packaging & Loading
-
-### Policy
-- **Labor:** free of charge  
-- **Materials:** charged to customer  
-
-### Standards
-- Default: stretch film  
-- Options: bubble wrap, cardboard + stretch  
-
-### Indicative Capacity
-- 20ft: 8–10 dismantled vehicles OR 60–70 engines  
-- 40ft HC: 15–20 dismantled vehicles OR 120–140 engines  
-*(Varies by model/spec/packing plan)*  
-
----
-
-## Account Integration
-
-### Unified Dashboard
-- Displays all purchases (Auction Agent + Stock)  
-- Includes dismantling lists, status tracking, container updates  
 
 ### Claims
-- Disputes must be filed via Dashboard Claim section  
+- Claims for shipping damage must be reported within 7 days of arrival.  
+- Supported by BL, inspection reports, and photos.  
+- Compensation limited to invoice value.  
 
 ---
 
-## Issue Invoice
-
-### Process
-1. Request **Proforma Invoice** in Dashboard  
-2. Download & review details (items, prices, conditions)  
-3. Confirm  
-
-### Status Flow
-`Pending → Issued → Confirmed / Finished`  
+### After-Sales Support
+- Ongoing support for all shipped vehicles.  
+- Assistance with documentation re-issuance.  
+- Guidance on customs clearance or destination-specific regulations.  
 
 ---
 
-## Delivery & Incoterms
+### Communication Channels
+- Dashboard messaging system for updates.  
+- Email alerts for booking and shipping milestones.  
+- Emergency phone line for critical shipping issues.  
+## Scrap Metal (8)
 
-### Terms
-- FOB, CFR, CIF (Incoterms 2020)  
-
-### Notes
-- CFR/CIF: AAN arranges freight (insurance if CIF)  
-- Risk transfer point defined by Incoterm chosen  
-- Late instructions may trigger discretionary shipping (customer bears risks/costs)  
-- Import duties at destination = customer responsibility  
-
----
-
-## Input Consignee & Notify Party Details (Dashboard)
-
-### Requirements
-- **Consignee:** final recipient (name, address, contact, port, import license/tax ID)  
-- **Notify Party:** same as Consignee or separate entity  
-
-### Dashboard Flow
-Dashboard → Parts & Vehicles → Export Settings → Consignee & Notify Party Form  
+### Overview
+A.A.N. Japan purchases scrap metal from dismantled automobiles across Japan.  
+This service is designed for domestic dismantling businesses that require a compliant partner for recycling of vehicle carcasses and ferrous materials.  
 
 ---
 
-## Export & Shipping Documents
+### What We Accept
+- Frames & shells.  
+- Ferrous components.  
+- Other metal structures after dismantling.  
 
-### Standard
-- After vessel cut-off: Bill of Lading, Commercial Invoice, Packing List, certificates  
-- USA: ISF data (prepared; submission by you/broker)  
-- B/L delivery: originals couriered after payment OR surrendered electronically  
-
----
-
-## Customer-Borne Costs (Examples)
-
-- **Mechanical:** batteries, leaks, brakes, locks  
-- **Operational:** towing, forklift, winch  
-- **Logistics:** storage, demurrage, port fees, rebooking, returns  
-- **Docs:** B/L corrections  
-- **Admin:** bank charges, courier fees, amendment fees  
+**Requirements:**  
+- All fluids drained (oil, coolant, fuel, brake fluid).  
+- Airbags & explosive devices removed or deactivated.  
+- VIN and deregistration documents must match.  
 
 ---
 
-## ETAs
-
-- Estimates only  
-- Subject to carrier schedules, congestion, holidays  
-
----
-
-## Inspections & Claims
-
-### Policy
-- Inspect immediately upon arrival  
-- **Claims deadlines:**  
-  - Shortage/damage: 7 days  
-  - Missing items: 10 days  
-  - Engine claims: photo of engine number required  
-
-### Remedy
-- Compensation usually via **discount on next order**  
+### What We Don’t Accept
+- Scrap from hearses.  
+- Contaminated scrap mixed with non-automotive waste.  
+- Burnt or severely damaged accident vehicles.  
 
 ---
 
-## Container Tracking & Status Updates
-
-### Dashboard Stages
-- Reservation  
-- In Dismantling  
-- Container Preparation  
-- Loading Complete  
-- On Vessel (ETA visible)  
-- Arrived at Destination Port  
-
----
-
-## Amendments & Cancellations
-
-- **Amendments:** Allowed before dismantling or shipping cut-off; fees may apply  
-- **Cancellations:**  
-  - Reservations: cancellable only before dismantling  
-  - Auction Agent purchases: **non-cancellable** after successful bid  
-  - After dismantling started: dismantling costs charged  
-  - Confirmed orders: deposit non-refundable  
-
----
-
-## After-Sales Support
-
-### Scope
-- Duplicate docs for customs  
-- Clarification on dismantling/container specs  
-- Guidance for claims  
-- Technical feedback for improvements  
-
-### Limitations
-- No responsibility for 3rd-party delays/costs (carriers, ports, customs)  
-- No warranty on used parts (compensation = discount only)  
-
----
-
-## Communication Channels
-
-### Policy
-Centralize all export-related communication via Dashboard.  
-
-### Options
-- **Dashboard Chat** — direct team messages  
-- **Claim Section** — official dispute submissions  
-- **Email/Phone:** csd@aanjapan.co.jp / +81-43-312-2496 (JST)  # Export of Complete Vehicles (7)
-
-## Overview
-
-A.A.N. Japan exports complete running vehicles under **Incoterms 2020**.  
-Modes of operation:  
-- **Auction Agent** – purchase at Japanese auto auctions on customer’s behalf.  
-- **Stock Vehicles** – direct purchase from AAN-owned inventory.  
-
-Transactions are B2B, in JPY, with transparent pricing, dashboard tracking, and documented flows.  
-
----
-
-## Deposit Requirement
-
-### Policy
-Deposit required as per Vehicle Export rules:  
-- ≤ JPY 1,000,000 bid limit → **JPY 100,000**  
-- > JPY 1,000,000 and ≤ JPY 5,000,000 → **JPY 300,000**  
-- > JPY 10,000,000 → **50% of requested bidding limit**  
-
-Deposits are:  
-- Held during relationship  
-- Credited against final invoice of last confirmed vehicle  
-- Refundable if no debts remain (bank charges borne by customer)  
-
----
-
-## Vehicle Sourcing
-
-### Auction Agent
-- A.A.N. Japan acts on your behalf at major auction groups (USS, JU, TAA, CAA, ARAI, etc.).  
-- Auction sheets, inspection reports, and condition grades provided.  
-- All sales strictly **“as-is”** unless otherwise agreed.  
-
-### Stock Vehicles
-- Direct purchase from AAN Japan stock, available via Dashboard.  
-- Reservations possible after deposit confirmation.  
-
----
-
-## Vehicle Condition & Information
-
-- Auction sheets include condition, mileage, grade (third-party data).  
-- Pre-auction inspections available (extra cost, subject to auction rules).  
-- Photos and translations are for reference; accuracy not guaranteed.  
-- Import compliance responsibility lies with buyer.  
-
----
-
-## Auction Agent – Order Flow
-
-1. Submit order: maker, model, chassis/series, year, grade, mileage cap, budget, destination port.  
-2. AAN provides **indicative market price** (non-binding).  
-3. Deposit checked → bid limit set.  
-4. Live bidding per customer parameters.  
-5. If won → Proforma/Invoice issued via Dashboard.  
-6. Payment within **3 business days** (or agreed window).  
-7. Inland transport: auction → AAN yard or port.  
-8. Export prep: docs, inspections, booking.  
-9. Shipment per Incoterm, tracked in Dashboard.  
-
----
-
-## Stock Vehicles – Order Flow
-
-1. Select from Dashboard inventory.  
-2. Reserve vehicle (short hold possible).  
-3. Invoice issued → payment required.  
-4. Export preparation & shipment.  
-
----
-
-## Inspections & Certificates (Optional)
-
-- **Destination-driven inspections**: JEVIC, QISJ, INTERTEK, JAAI, EAA, Bureau Veritas.  
-- **Mandatory radiation inspection**: All Ro-Ro shipments; container shipments upon request.  
-- **Pre-shipment inspections (PSI)**: If required, must be requested in advance.  
-
----
-
-## Inland Logistics (Japan)
-
-### Extra Cost Triggers
-- Auction yards distant from bidding site  
-- Modified suspension (low/high)  
-- Non-running vehicles requiring tow/winch  
-- Height > 2m or high roof racks  
-- Heavy leaks  
-- Negotiation / One-Price / AUCNET units  
-- Trucks / special-purpose vehicles  
-- Storage >1 month  
-
-**Result:** Additional inland charges apply depending on distance and handling.  
-
----
-
-## Issue Invoice
-
-### Flow
-1. Request Proforma Invoice in Dashboard.  
-2. Download & review items, prices, conditions.  
-3. Confirm.  
-
----
-
-## Commercial Terms
-
-- **Currency:** JPY (foreign payments converted at MUFG TTB rate).  
-- **Method:** International bank transfer (or approved alternative).  
-- **Due:** Full settlement before export docs/shipment release.  
-
-**Price composition (Auction):** hammer price + auction fees + inland transport + AAN service fee + freight/insurance (CFR/CIF) + optional inspections.  
-**Price composition (Stock):** stock price + inland handling + freight/insurance (CFR/CIF) + optional inspections.  
-
----
-
-## Cancellations
-
-### Auction
-- Possible within **30–120 minutes** if allowed (penalties apply).  
-- Otherwise, re-auction.  
-
-### Stock
-- Possible before export prep; cancellation fees may apply.  
-
-**Note:** All penalties, fees, storage, transport, and related costs are charged to buyer.  
-
----
-
-## Shipping Options (Incoterms 2020)
-
-- **FOB (Japan Port):** Buyer arranges freight; AAN delivers on board.  
-- **CFR / CIF:** AAN arranges freight (insurance included for CIF).  
-- **Modes:**  
-  - **Ro-Ro:** preferred for running units.  
-  - **Container:** for special destinations or per buyer request.  
-
----
-
-## Ro-Ro Shipment
-
-### Minimum Condition
-- Ground clearance ≥ 15 cm  
-- Drivable: starts, moves, steers, brakes  
-- Hood opens & secures  
-- Tires hold air  
-- No leaks, smoke, or hazardous defects  
-- No loose cargo inside vehicle  
-
-### Not Accepted
-- Non-runners, heavy leaks/smoke  
-- Defective HV/EV batteries  
-- Missing windshields or non-secure windows  
-- Cargo inside vehicle  
-
-### Refusals & Remedies
-- Carrier may refuse at their sole discretion.  
-- Options: rectify & rebook, switch to container, or return to yard (all costs to buyer).  
-
----
-
-## Container Shipment
-
-- Vehicles consolidated at stuffing yard.  
-- Non-runners/heavy damage → forklift or winch required (charged).  
-- Some destinations restrict containerized vehicles — confirm in advance.  
-
----
-
-## Lashing & Securing
-
-- Industry-standard blocking, bracing, straps, wheel nets.  
-- After sealing, risk transfers per Incoterms.  
-
-**If buyer appoints 3rd party or requests non-standard loading → all risks borne by buyer.**  
-
----
-
-## Export & Shipping Documents
-
-- Issued after vessel cut-off: B/L, Commercial Invoice, Packing List, Export Certificate.  
-- USA shipments: ISF data prepared (submission by customer/broker).  
-- Original B/L couriered after payment; surrender B/L or Sea Waybill issued electronically.  
-
----
-
-## Amendments & Delays
-
-- Amendments allowed before cut-off (fees may apply).  
-- ETAs are estimates only; delays possible due to congestion or carrier schedules.  
-
----
-
-## Claims
-
-### Auction Discrepancies
-- Must follow auction rules; final decision lies with auction house.  
-- Common exclusions: accident corners, >20 yrs old, >150,000 km, heavily modified cars.  
-
-### Damage in AAN Custody
-- Must report before shipment (with photos).  
-- Remedy: discount/repair if accepted.  
-
-### Transit Damage
-- Governed by carrier terms and insurance (if CIF).  
-
-### Arrival Inspection
-- Ro-Ro: note discrepancies on delivery receipt/EIR before gate-out.  
-- Container: record unsealing/opening video (seal, container number, contents).  
-- Claims submitted via Dashboard with photos/docs.  
-
----
-
-## After-Sales Support
-
-### Scope
-- Duplicate docs for customs  
-- Clarification on loading specs  
-- Claim guidance  
-- Feedback for service improvements  
-
-### Limitations
-- No liability for 3rd-party delays/costs (carrier, port, customs)  
-- No warranty on used cars (discounts/credits only)  
-
----
-
-## Communication Channels
-
-- **Dashboard Chat** – real-time export team messaging  
-- **Claim Section** – official claim submissions  
-- **Email/Phone:** csd@aanjapan.co.jp / +81-43-312-2496 (JST)  # Scrap Metal (8)
-
-## Overview
-
-A.A.N. Japan purchases **scrap metal** from dismantled automobiles across Japan.  
-Service is intended for domestic dismantling businesses needing a compliant partner for recycling carcasses and ferrous remains.  
-
----
-
-## What We Accept
-
-**Scrap Metal** includes:  
-- Frames and shells  
-- Ferrous components  
-- Other metal structures after parts removal  
-
-**Processing Requirements before Delivery:**  
-- All fluids drained (oil, coolant, fuel, brake fluid)  
-- Airbags and explosive devices deactivated  
-- Valid deregistration documents matching vehicle identity  
-
----
-
-## What We Don’t Accept
-
-- Scrap from hearses  
-- Scrap contaminated with non-automotive waste  
-- Burnt vehicles  
-- Severely accident-damaged units with contamination risk  
-
----
-
-## Who Can Deliver
-
-- Only **domestic dismantling businesses** compliant with Japanese law.  
-
-**Preconditions via Dashboard:**  
-1. Declare intent to supply scrap (Dashboard setting).  
-2. Review and accept scrap purchase contract.  
+### Who Can Deliver
+Suppliers must be licensed domestic dismantling businesses.  
+
+**Steps before delivery:**  
+1. Mark intent to supply in dashboard.  
+2. Review & accept supply contract.  
 3. Register valid bank account details.  
-4. Provide T-Invoice number (for settlement compliance).  
-5. Select payment schedule: monthly or semi-monthly.  
+4. Provide T-invoice number (mandatory).  
+5. Select payment schedule (monthly or bi-monthly).  
 
-**Confirmation by Delivery:**  
-Suppliers guarantee vehicles were lawfully owned, deregistered, and VIN numbers match documents.  
-
----
-
-## Delivery Process
-
-1. **Transport** – comply with legal weight limits; secure load to prevent loss.  
-2. **Arrival** – check yard hours; follow queueing rules (first-come, first-served).  
-3. **Documents** – prepare deregistration certificate and ID/company details.  
-4. **Check-in** – report to yard office for assignment and safety briefing.  
-5. **Unloading** – follow staff guidance; engines off, no passengers in unloading zone.  
-6. **Inspection & Weighing** – compliance check, capture gross weight, apply 35% deduction for non-metal content, calculate net weight.  
-7. **Confirmation** – receipt issued in Dashboard with weight, deduction, and applied rate.  
+**By delivering, suppliers confirm that:**  
+- Vehicles were lawfully owned & dismantled.  
+- Deregistration docs are valid.  
+- Chassis/VIN matches paperwork.  
 
 ---
 
-## Pricing & Transparency
-
-- Dashboard shows **current buying prices** (iron, steel, mixed scrap).  
-- Prices updated regularly based on market conditions.  
-- Settlement calculated as: **Net weight × Current rate**.  
-- Scale tickets attached to settlement in Dashboard.  
+### Delivery Process
+1. Do not overload trucks — respect weight limits.  
+2. Secure cargo to prevent loss in transit.  
+3. Check yard hours & access rules.  
+4. Prepare documents — deregistration certificates, ID/company details.  
+5. Arrival check-in at yard office for unloading instructions.  
+6. Unloading under staff supervision (engine off, no passengers).  
+7. Inspection & weighing:  
+   - Compliance check.  
+   - Gross weight recorded.  
+   - Standard 35% deduction for non-metal content.  
+   - Net weight calculated.  
+8. Confirmation — receipt issued in dashboard with weight, deduction, and applied rate.  
 
 ---
 
-## Settlement & Payment
+### Pricing & Transparency
+- Buying prices (iron, steel, mixed) updated regularly in dashboard.  
+- Settlement = **Net weight × current rate**.  
+- Scale tickets attached to settlement records in dashboard.  
 
+---
+
+### Settlement & Payment
 - Payments transferred to registered bank account.  
-- Frequency per supplier’s choice: once or twice per month.  
-- Full settlement statement accessible in Dashboard for every delivery.  
+- Frequency: monthly or bi-monthly (as chosen).  
+- Full settlement statement available in dashboard for each delivery.  
+## Auctions: How They Work (9)
 
-### Status / Result
-Transparent, compliant scrap trading with automated settlement and secure payments.  # Auctions: How They Work (9)
-
-## History of Development
-
-- **1950s** – No structured used car market; cars driven until scrap.  
-- **Late 1950s** – Trade-ins appear; dealers resell via brokers.  
-- **1967** – Toyota Usec launches first used car auction, replacing brokers with dealer-to-dealer trade.  
-- **1970s** – JU unifies industry rules.  
-- **1980s** – USS and corporate groups establish auctions as independent business.  
-- **1990s** – Remote bidding (AUCNET, ASNET) enables nationwide participation.  
-- **Today** – 130+ auction sites across Japan.  
+### History of Development
+- **1950s:** No formal used car market — vehicles scrapped after use.  
+- **1967:** Toyota Usec held the first dealer-to-dealer auction.  
+- **1970s:** JU unified industry rules.  
+- **1980s:** USS and other groups made auctions a standalone business.  
+- **1990s:** Remote systems like AUCNET enabled nationwide bidding.  
+- **Today:** Over 130 auction sites across Japan.  
 
 ---
 
-## Auction Systems
-
-- **Groups:** USS, TAA, ARAI, CAA, HONDA, etc. run weekly sales.  
-- **IT Providers:** ASNET, AUCNET, CIS aggregate multiple auctions into remote portals.  
-- Buyers monitor thousands of cars in real time.  
-
----
-
-## Bidding Structure
-
-- Most cars have **hidden reserve price**.  
-- Until reserve is met, bids don’t guarantee sale.  
-- **Urikiri (売切り) light on:** car will be sold to last bidder.  
-- Lots may show bid results below reserve and remain unsold.  
+### Auction Systems
+- Operated by groups (USS, TAA, ARAI, CAA, Honda).  
+- Weekly sales; IT providers (ASNET, AUCNET, CIS) provide remote access.  
+- Multi-portals aggregate many auctions → thousands of cars visible at once.  
 
 ---
 
-## Purchase Methods
-
-- **On-site:** Direct at auction house; lowest fees; physical inspection possible.  
-- **Distant Bidding (remote/live):** Real-time online bidding from office; slightly higher fees.  
-- **Absentee Bid (pre-bid):** Maximum price set in advance; system bids automatically up to your limit. Available both on-site and remotely.  
-
----
-
-## Auction Types
-
-- **Usual Auctions:**  
-  Standard format, fast-paced, live bidding. Highest bidder above reserve wins.  
-
-- **Tender Auctions (sealed bid):**  
-  Buyers submit max price by deadline. Highest tender ≥ reserve wins. Often for lease/stock cars.  
+### Bidding Structure
+- Most cars have hidden reserve price.  
+- "Urikiri" light = reserve reached → vehicle sells to last bidder.  
+- Unsold if bids don’t meet reserve, even if above your max.  
 
 ---
 
-## Auction Corners
+### Purchase Methods
+- **On-site:** Lowest fees, in-person inspection.  
+- **Distant bidding:** Real-time online bidding from office.  
+- **Absentee bid:** Pre-bid system auto-bids up to max.  
 
-Japanese auctions categorize inventory into **“corners”** based on type, condition, or price.  
+---
 
-### Examples
-- **No-reserve / Zero Start (Nゼロ, MAX caps):** ¥0 start, no hidden reserve.  
-- **First-time Listing (初出品):** Vehicles debuting; premium variant = better spec/condition.  
-- **Regular / Dealer Stock:** Mainstream lots with standard rules.  
-- **As-is / Accident / Non-runner:** Minimal prep, limited/no claims.  
-- **White Corner:** Must be roadworthy, no leaks, basic checks only.  
-- **Regional / Satellite:** Auction-specific streams (e.g., Nagoya E, Yokohama Fresh).  
+### Auction Types
+- **Usual auctions:** Standard live bidding, seconds per car.  
+- **Tender auctions:** Silent/sealed bids; highest tender above reserve wins.  
 
-### Quick Tips
-- Price hunting → Zero/N-Zero.  
-- Export-ready quality → Premium/Dealer.  
+---
+
+### Auction Corners
+- Auctions split inventory into "corners" by type, price, or quality.  
+
+**Examples:**  
+- Zero start / No-reserve (Nゼロ, 70k MAX, 200k MAX).  
+- First-time listing (初出品).  
+- Dealer / Premium Dealer.  
+- As-is / Accident / Non-runner.  
+- White corner (roadworthy only, no leaks).  
+- Regional/satellite (e.g., Nagoya E, Yokohama Fresh).  
+
+**Tips:**  
+- Price hunters → Zero/N-Zero.  
+- Export-ready quality → Premium Dealer.  
 - Parts sourcing → As-is/Accident.  
-- Always check corner notes: claim rules, fees, transport feasibility.  
 
 ---
 
-## Auction Sheets
+### Auction Sheets
+The “report card” of a car.  
 
-Auction sheet = vehicle “report card.”  
-
-### Contents
-- Vehicle details (make, model, year, chassis, mileage).  
-- Equipment & drivetrain.  
-- Exterior/interior grades.  
+**Contents:**  
+- Vehicle details (maker, model, VIN, mileage).  
+- Equipment (transmission, drivetrain, fuel, options).  
+- Condition (exterior/interior grades).  
 - Accident/repair history.  
-- Damage map with codes (scratches, dents, rust).  
-- Inspector comments (odor, engine noise, modifications).  
+- Damage map.  
+- Inspector comments.  
 
-### Grading (General)
-- **5 / 6 / S:** Near new.  
-- **4.5:** Very clean used car.  
-- **4 / 3.5:** Average, typical wear.  
-- **3 or below:** Rough condition.  
-- **R / RA / A:** Accident/repaired.  
-- **Interior Grades:** A (best) → D (worst).  
-
----
-
-## Competing Bids from Our Clients
-
-### Policy
-When multiple AAN clients bid on the same vehicle:  
-- Vehicle goes to client with **higher maximum bid**.  
-
-### Rationale
-- Reflects true auction rules (highest bidder wins).  
-- Maximizes purchase probability for clients.  
-- Ensures fairness and avoids conflict.  
+**Grades:**  
+- 5 / 6 / S → Excellent.  
+- 4.5 → Very clean.  
+- 4 / 3.5 → Average.  
+- 3 or lower → Rough.  
+- R / RA → Accident/repaired.  
+- Interior: A → D.  
 
 ---
 
-## Auction Bills
+### Competing Bids from Our Clients
+Policy: if multiple clients bid the same car → assign to **higher maximum bid**.  
 
-### Main Components
-- **Hammer Price (落札額):** Final winning bid (non-refundable).  
-- **Auction Fee:** Charged by auction house, varies by method/corner (non-refundable).  
-- **Consumption Tax (10%):** On services; refundable on export if company registered as taxable.  
-- **Recycling Fee:** Refundable on export; non-refundable on dismantling.  
-- **Shaken Tax (自動車税/車検残):** Refunded proportionally if deregistered.  
+- Maximizes winning probability.  
+- Aligns with real auction rules.  
+- Ensures fairness and avoids conflicts.  
 
 ---
 
-## Auction Results
-
-Possible outcomes:  
-- **Sold (落札):** Sold to highest bidder.  
-- **Cancelled (出品取消):** Lot withdrawn (documents/issues/seller).  
-- **Unsold (流れ):** Reserve not met.  
-- **Sold by Negotiation (後商談):** Post-auction deal within 10–60 min.  
-- **Reverse Negotiation (逆商談):** Seller offers to last bidder at last price.  
-- **One Price (一発落札):** Fixed price, first applicant wins.  
-- **Buyer Cancellation (落札者キャンセル):** Buyer cancels post-win (penalties ¥70k–85k+).  
-- **Seller Cancellation (売主キャンセル):** Seller cancels after hammer (penalty charged to seller).  
+### Auction Bills
+- **Hammer price:** Winning car price.  
+- **Auction fee:** Service fee, varies by method/corner.  
+- **Consumption tax (10%):** Refundable on export.  
+- **Recycling fee:** Refundable when exported, not on dismantling.  
+- **Remaining shaken tax:** Refunded proportionally.  
 
 ---
 
-## Start Price & Desired Price
-
-- **Start Price (スタート価格):** Opening bid.  
-- **Desired Price (希望価格):** Hidden seller minimum.  
-
-**Buyer strategy:**  
-- Up to ¥50k → add ¥20k  
-- ¥60k–100k → add ¥50k  
-- ¥110k–500k → add ¥100k  
-- ¥600k–900k → add ¥200k  
-- ¥1.0–1.5M → add ¥500k  
-
----
-
-## Cancelling a Mistaken Purchase
-
-- Allowed within **30–120 minutes** (depending on auction rules).  
-- Penalty: typically **¥70k–85k**, higher for trucks.  
-- Some negotiation lots non-cancellable or costlier to cancel.  
+### Auction Results
+Possible statuses:  
+- **Sold (落札).**  
+- **Cancelled (出品取消).**  
+- **Unsold (流れ).**  
+- **Sold by Negotiations (後商談).**  
+- **Reverse Negotiation (逆商談).**  
+- **One Price (一発落札).**  
+- **Buyer Cancellation (落札者キャンセル).**  
+- **Seller Cancellation (売主キャンセル).**  
 
 ---
 
-## Auction Cars vs Stock Cars
+### Start Price & Desired Price
+- **Start price (スタート価格):** Where bidding begins.  
+- **Desired price (希望価格):** Seller’s minimum acceptable (hidden until urikiri).  
 
-- **Auction Cars:** Lower cost, wider selection, minimal photos, longer docs.  
-- **Stock Cars:** Higher price, many photos, faster docs, exporter bears risk.  
-
----
-
-## Land Transportation
-
-- After purchase → vehicle moved to yard near port or AAN yard.  
-- Payment deadlines: usually 5–7 days.  
-- Pickup requires ID, license, and carry-out ticket (搬出券).  
+Safe bidding margins:  
+- ≤ ¥50k → +¥20k.  
+- ¥60k–100k → +¥50k.  
+- ¥110k–500k → +¥100k.  
+- ¥600k–900k → +¥200k.  
+- ¥1.0–1.5M → +¥500k.  
 
 ---
 
-## Combined Ferry – Land Delivery
-
-For island/remote regions (Hokkaido, Shikoku, Kyushu, Okinawa):  
-- Inland trucking → ferry terminal  
-- Ferry crossing  
-- Inland trucking after unloading  
-
-### Notes
-- Higher costs due to multi-modal logistics.  
-- Delays possible from ferry schedules/weather.  
-- Non-runners/oil-leak vehicles often not accepted.  
+### Cancelling a Mistaken Purchase
+- Allowed 30–120 minutes after win (varies by auction).  
+- Cost: ¥70,000–85,000+ depending on class.  
+- Negotiation lots may be non-cancellable.  
 
 ---
 
-## Cars from Satellite Auctions
-
-- Auction name may differ from storage location (e.g., TAA Shikoku listed, car in Ehime Matsuyama).  
-- Always confirm actual location before bidding.  
+### Auction Cars vs Stock Cars
+- **Stock:** More photos, faster docs, higher price.  
+- **Auction:** Lower price, larger choice, fewer photos, longer processing.  
 
 ---
 
-## Cars from AUCNET
+### Land Transportation
+- After purchase → moved to yard/port.  
+- Deadlines: payment 5–7 days.  
+- Pickup: driver requires ID, license, carry-out ticket (搬出券).  
 
-- Fully virtual auction, no yards.  
-- Units scattered nationwide.  
-- Transport calculated per vehicle.  
-- Pre-inspection impossible.  
-- Held weekly on Mondays.  
+---
 
+### Combined Ferry – Land Delivery
+For island/remote locations (Hokkaido, Shikoku, Kyushu, Okinawa).  
+
+**Process:**  
+1. Truck → ferry terminal.  
+2. Ferry to destination port.  
+3. Inland trucking → yard.  
+
+**Key notes:**  
+- Higher costs & longer times.  
+- Non-runners/leaking vehicles not accepted by ferries.  
+
+---
+
+### Cars from Satellite Auctions
+- Auction name may differ from real location (e.g., TAA Shikoku).  
+- Must confirm storage location before bidding.  
+
+---
+
+### Cars from AUCNET
+- No physical yards — cars scattered nationwide.  
+- Virtual only (Mondays).  
+- Transport calculated per unit.  
+- Pre-inspection not possible.  
