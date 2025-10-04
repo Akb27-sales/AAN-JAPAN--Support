@@ -2,21 +2,32 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AAN Japan - Support</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AAN Japan — Support Docs</title>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
-    body { font-family: Arial, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; line-height: 1.6; }
-    pre, code { background: #f4f4f4; padding: 4px 6px; border-radius: 4px; }
-    h1, h2, h3 { margin-top: 30px; }
-    a { color: #0366d6; text-decoration: none; }
-    a:hover { text-decoration: underline; }
+    :root{
+      --bg:#ffffff; --text:#111; --muted:#666; --link:#0b5ed7; --border:#e5e7eb; --max:980px;
+    }
+    html,body{margin:0;padding:0}
+    body{font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Arial,sans-serif;color:var(--text);background:var(--bg)}
+    .wrap{max-width:var(--max);margin:48px auto;padding:0 20px}
+    h1,h2,h3{line-height:1.25;margin:1.4em 0 .6em}
+    h1{font-size:2.2rem} h2{font-size:1.6rem} h3{font-size:1.25rem}
+    p,li{color:#222}
+    code,pre{background:#f6f8fa;border:1px solid var(--border);border-radius:6px}
+    code{padding:.1em .35em}
+    pre{padding:14px;overflow:auto}
+    a{color:var(--link);text-decoration:none} a:hover{text-decoration:underline}
+    hr{border:0;border-top:1px solid var(--border);margin:26px 0}
+    .toc li{margin:.25em 0}
   </style>
 </head>
 <body>
-  <main id="app">Loading AAN Japan Support...</main>
+  <main class="wrap" id="app">Loading…</main>
 
   <script>
+    // 1) ВСТАВЬТЕ ВЕСЬ MARKDOWN НИЖЕ между обратными кавычками:
     const md = `
 # Support
 A short explanatory text block (not question–answer, but a mini-article).
@@ -25,24 +36,165 @@ The content is presented in concise reference blocks.
 It can be expanded without limitation — each topic becomes a “mini-article.”
 This format is suitable for B2B and international clients, which increases trust.
 
-## Table of Contents
+# Topics & Subsections
 - [General (1)](#general-1)
+  - [Our Core Business](#our-core-business)
+  - [Company History](#company-history)
+  - [Values & Success Factors](#values--success-factors)
+  - [Licensing & Compliance](#licensing--compliance)
+  - [Equipment Portfolio](#equipment-portfolio)
+  - [Global Trade & Markets](#global-trade--markets)
+  - [Visiting Us (Access & Facilities)](#visiting-us-access--facilities)
+  - [Visa Application Support](#visa-application-support)
+
 - [Account & Dashboard (2)](#account--dashboard-2)
+  - [Create an Account](#create-an-account)
+  - [Dashboard Functions (after login)](#dashboard-functions-after-login)
+  - [Account Tools & Monitoring](#account-tools--monitoring)
+  - [Dormant & Deletion](#dormant--deletion)
+
 - [Contract Review & Deposit (3)](#contract-review--deposit-3)
+  - [Contract Review](#contract-review)
+  - [Initial Deposit Requirement](#initial-deposit-requirement)
+  - [Business Line Deposits](#business-line-deposits)
+  - [Why a Deposit is Required](#why-a-deposit-is-required)
+  - [Initial Deposit Amounts](#initial-deposit-amounts)
+  - [Deposit Refund Policy](#deposit-refund-policy)
+  - [Deposit Process](#deposit-process)
+  - [Activation Timeline](#activation-timeline)
+
 - [Bank Details & Payments (4)](#bank-details--payments-4)
+  - [Domestic Bank Transfers (Japan)](#domestic-bank-transfers-japan)
+  - [International Bank Transfers](#international-bank-transfers)
+  - [Currency Rules](#currency-rules)
+  - [Payment Methods](#payment-methods)
+  - [Proof of Payment & Dashboard Upload](#proof-of-payment--dashboard-upload)
+  - [Processing Timeline](#processing-timeline)
+  - [Refund Rules](#refund-rules)
+  - [Compliance & Security](#compliance--security)
+
 - [Wholesale Supply of Spare Parts (Japan) (5)](#wholesale-supply-of-spare-parts-japan-5)
+  - [Sourcing](#sourcing)
+  - [Reservation Options](#reservation-options)
+  - [Product Sets](#product-sets)
+  - [What’s Included / Excluded (Standards)](#whats-included--excluded-standards)
+  - [Individual Parts](#individual-parts)
+  - [Wholesale-Only Parts](#wholesale-only-parts)
+  - [Restrictions](#restrictions)
+  - [Packaging Options](#packaging-options)
+  - [Wheels (Optional Sales)](#wheels-optional-sales)
+  - [Auction Process for Tuning Wheels](#auction-process-for-tuning-wheels)
+  - [Pickup & Collection Policy](#pickup--collection-policy)
+  - [Sales Completion & Compensation (Unified Policy)](#sales-completion--compensation-unified-policy)
+  - [Special Orders](#special-orders)
+  - [Pricing & Payments](#pricing--payments)
+  - [Dashboard Statuses](#dashboard-statuses)
+
 - [Export of Spare Parts (Wholesale) (6)](#export-of-spare-parts-wholesale-6)
+  - [General](#general)
+  - [Deposit Requirement](#deposit-requirement)
+  - [Prices & Payments](#prices--payments)
+  - [Reservations & Backorders](#reservations--backorders)
+  - [Auction Agent Orders](#auction-agent-orders)
+  - [Export Policy – Wholesale Only](#export-policy--wholesale-only)
+  - [Dismantling Services](#dismantling-services)
+  - [Packaging & Loading](#packaging--loading)
+  - [Account Integration](#account-integration)
+  - [Issue Invoice](#issue-invoice)
+  - [Delivery & Incoterms](#delivery--incoterms)
+  - [Input Consignee & Notify Party Details through Dashboard](#input-consignee--notify-party-details-through-dashboard)
+  - [Export & Shipping Documents](#export--shipping-documents)
+  - [Customer-Borne Costs (examples)](#customer-borne-costs-examples)
+  - [ETAs](#etas)
+  - [Inspections & Claims](#inspections--claims)
+  - [Container Tracking & Status Updates](#container-tracking--status-updates)
+  - [Amendment & Cancellations](#amendment--cancellations)
+  - [After-Sales Support](#after-sales-support)
+  - [Communication Channels](#communication-channels)
+
 - [Export of Complete Vehicles (7)](#export-of-complete-vehicles-7)
+  - [Overview](#overview)
+  - [Deposit Requirement](#deposit-requirement-1)
+  - [Vehicle Sourcing](#vehicle-sourcing)
+  - [Vehicle Condition & Information](#vehicle-condition--information)
+  - [Auction Agent – Order Flow](#auction-agent--order-flow)
+  - [Stock Vehicles – Order Flow](#stock-vehicles--order-flow)
+  - [Inspections & Certificates (Optional / Destination-Driven)](#inspections--certificates-optional--destination-driven)
+  - [Inland Logistics (Japan)](#inland-logistics-japan)
+  - [Issue Invoice](#issue-invoice-1)
+  - [Commercial Terms](#commercial-terms)
+  - [Cancellations (Auction / Stock)](#cancellations-auction--stock)
+  - [Shipping Options (Incoterms 2020)](#shipping-options-incoterms-2020)
+  - [Ro-Ro Shipment](#ro-ro-shipment)
+  - [Container Shipment](#container-shipment)
+  - [Lashing & Securing](#lashing--securing)
+  - [Export & Shipping Documents](#export--shipping-documents-1)
+  - [Amendments & Delays](#amendments--delays)
+  - [Claims](#claims)
+  - [After-Sales Support](#after-sales-support-1)
+  - [Communication Channels](#communication-channels-1)
+
 - [Scrap Metal (8)](#scrap-metal-8)
+  - [Overview](#overview-1)
+  - [What We Accept](#what-we-accept)
+  - [What We Don’t Accept](#what-we-dont-accept)
+  - [Who Can Deliver](#who-can-deliver)
+  - [Delivery Process](#delivery-process)
+  - [Pricing & Transparency](#pricing--transparency)
+  - [Settlement & Payment](#settlement--payment)
+
 - [Auctions: How They Work (9)](#auctions-how-they-work-9)
+  - [History of Development](#history-of-development)
+  - [Auction Systems](#auction-systems)
+  - [Bidding Structure](#bidding-structure)
+  - [Purchase Methods](#purchase-methods)
+  - [Auction Types](#auction-types)
+  - [Auction Corners](#auction-corners)
+  - [Auction Sheets](#auction-sheets)
+  - [Competing Bids from Our Clients](#competing-bids-from-our-clients)
+  - [Auction Bills](#auction-bills)
+  - [Auction Results](#auction-results)
+  - [Start Price & Desired Price](#start-price--desired-price)
+  - [Cancelling a Mistaken Purchase](#cancelling-a-mistaken-purchase)
+  - [Auction Cars vs Stock Cars](#auction-cars-vs-stock-cars)
+  - [Land Transportation](#land-transportation)
+  - [Combined Ferry – Land Delivery](#combined-ferry--land-delivery)
+  - [Cars from Satellite Auctions](#cars-from-satellite-auctions)
+  - [Cars from AUCNET](#cars-from-aucnet)
 
----
-
-## General (1)
-...и так далее, весь ваш текст тут...
+<!-- здесь продолжайте: вставьте весь остальной контент разделов, который мы уже подготовили -->
 `;
 
-    document.getElementById("app").innerHTML = marked.parse(md);
+    // 2) Рендер Markdown
+    const app = document.getElementById('app');
+    app.innerHTML = marked.parse(md);
+
+    // 3) Прокрутка к разделу по «маршруту» #/<id> (например, #/scrap-metal-8)
+    function scrollToHashId(){
+      const raw = location.hash || '';
+      // ожидаем формат "#/<id>" или просто "#id"
+      let id = raw.startsWith('#/') ? raw.slice(2) : raw.startsWith('#') ? raw.slice(1) : '';
+      if(!id) return;
+      const el = document.getElementById(id);
+      if(el) el.scrollIntoView({behavior:'smooth', block:'start'});
+    }
+    window.addEventListener('load', scrollToHashId);
+    window.addEventListener('hashchange', scrollToHashId);
+
+    // 4) Сделать кликабельные ссылки оглавления рабочими даже при роутере
+    // - перехватываем клики по ссылкам, начинающимся с "#"
+    document.addEventListener('click', (e)=>{
+      const a = e.target.closest('a[href^="#"]');
+      if(!a) return;
+      const href = a.getAttribute('href');       // например "#general-1"
+      const id = href.replace(/^#\/?/, '');       // -> "general-1"
+      const el = document.getElementById(id);
+      if(el){
+        e.preventDefault();
+        history.pushState(null, '', '#/'+id);     // поддержка формата #/...
+        el.scrollIntoView({behavior:'smooth', block:'start'});
+      }
+    });
   </script>
 </body>
 </html>
