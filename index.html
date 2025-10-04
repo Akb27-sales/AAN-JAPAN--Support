@@ -4,8 +4,10 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>AAN JAPAN — Support</title>
+
   <!-- Markdown parser -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
   <style>
     :root{
       --bg:#ffffff;
@@ -32,42 +34,38 @@
     pre{background:#f6f8fa; border:1px solid var(--border); border-radius:8px; padding:14px; overflow:auto}
     hr{border:0; border-top:1px solid var(--border); margin:28px 0}
     .note{color:var(--muted); font-size:.95rem}
-    /* якорь-офсет при фиксированных верхних панелях (на будущее) */
     :target::before{content:""; display:block; height:64px; margin-top:-64px; visibility:hidden}
   </style>
 </head>
 <body>
   <main id="app" class="wrap">Loading…</main>
 
-  <!-- # Support
+  <script type="text/markdown" id="md">
+# Support
+A short explanatory text block (not question–answer, but a mini-article).
+It looks more professional (similar to AWS, IBM, Microsoft Docs).
+The content is presented in concise reference blocks.
+It can be expanded without limitation — each topic becomes a “mini-article.”
+This format is suitable for B2B and international clients, which increases trust.
 
-A short explanatory text block (not question–answer, but a mini-article).  
-It looks more professional (similar to AWS, IBM, Microsoft Docs).  
-The content is presented in concise reference blocks.  
-It can be expanded without limitation — each topic becomes a “mini-article.”  
-This format is suitable for B2B and international clients, which increases trust.  
-
----
-
-# Topics & Subsections
-
+## Topics & Subsections
 - [General (1)](#general-1)
   - [Our Core Business](#our-core-business)
   - [Company History](#company-history)
-  - [Values & Success Factors](#values--success-factors)
-  - [Licensing & Compliance](#licensing--compliance)
+  - [Values & Success Factors](#values-and-success-factors)
+  - [Licensing & Compliance](#licensing-and-compliance)
   - [Equipment Portfolio](#equipment-portfolio)
-  - [Global Trade & Markets](#global-trade--markets)
-  - [Visiting Us (Access & Facilities)](#visiting-us-access--facilities)
+  - [Global Trade & Markets](#global-trade-and-markets)
+  - [Visiting Us (Access & Facilities)](#visiting-us-access-and-facilities)
   - [Visa Application Support](#visa-application-support)
 
-- [Account & Dashboard (2)](#account--dashboard-2)
+- [Account & Dashboard (2)](#account-and-dashboard-2)
   - [Create an Account](#create-an-account)
   - [Dashboard Functions (after login)](#dashboard-functions-after-login)
-  - [Account Tools & Monitoring](#account-tools--monitoring)
-  - [Dormant & Deletion](#dormant--deletion)
+  - [Account Tools & Monitoring](#account-tools-and-monitoring)
+  - [Dormant & Deletion](#dormant-and-deletion)
 
-- [Contract Review & Deposit (3)](#contract-review--deposit-3)
+- [Contract Review & Deposit (3)](#contract-review-and-deposit-3)
   - [Contract Review](#contract-review)
   - [Initial Deposit Requirement](#initial-deposit-requirement)
   - [Business Line Deposits](#business-line-deposits)
@@ -77,52 +75,52 @@ This format is suitable for B2B and international clients, which increases trust
   - [Deposit Process](#deposit-process)
   - [Activation Timeline](#activation-timeline)
 
-- [Bank Details & Payments (4)](#bank-details--payments-4)
+- [Bank Details & Payments (4)](#bank-details-and-payments-4)
   - [Domestic Bank Transfers (Japan)](#domestic-bank-transfers-japan)
   - [International Bank Transfers](#international-bank-transfers)
   - [Currency Rules](#currency-rules)
   - [Payment Methods](#payment-methods)
-  - [Proof of Payment & Dashboard Upload](#proof-of-payment--dashboard-upload)
+  - [Proof of Payment & Dashboard Upload](#proof-of-payment-and-dashboard-upload)
   - [Processing Timeline](#processing-timeline)
   - [Refund Rules](#refund-rules)
-  - [Compliance & Security](#compliance--security)
+  - [Compliance & Security](#compliance-and-security)
 
 - [Wholesale Supply of Spare Parts (Japan) (5)](#wholesale-supply-of-spare-parts-japan-5)
   - [Sourcing](#sourcing)
   - [Reservation Options](#reservation-options)
   - [Product Sets](#product-sets)
-  - [What’s Included / Excluded (Standards)](#whats-included--excluded-standards)
+  - [What’s Included / Excluded (Standards)](#whats-included-excluded-standards)
   - [Individual Parts](#individual-parts)
   - [Wholesale-Only Parts](#wholesale-only-parts)
   - [Restrictions](#restrictions)
   - [Packaging Options](#packaging-options)
   - [Wheels (Optional Sales)](#wheels-optional-sales)
   - [Auction Process for Tuning Wheels](#auction-process-for-tuning-wheels)
-  - [Pickup & Collection Policy](#pickup--collection-policy)
-  - [Sales Completion & Compensation (Unified Policy)](#sales-completion--compensation-unified-policy)
+  - [Pickup & Collection Policy](#pickup-and-collection-policy)
+  - [Sales Completion & Compensation (Unified Policy)](#sales-completion-and-compensation-unified-policy)
   - [Special Orders](#special-orders)
-  - [Pricing & Payments](#pricing--payments)
+  - [Pricing & Payments](#pricing-and-payments)
   - [Dashboard Statuses](#dashboard-statuses)
 
 - [Export of Spare Parts (Wholesale) (6)](#export-of-spare-parts-wholesale-6)
   - [General](#general)
   - [Deposit Requirement](#deposit-requirement)
-  - [Prices & Payments](#prices--payments)
-  - [Reservations & Backorders](#reservations--backorders)
+  - [Prices & Payments](#prices-and-payments)
+  - [Reservations & Backorders](#reservations-and-backorders)
   - [Auction Agent Orders](#auction-agent-orders)
-  - [Export Policy – Wholesale Only](#export-policy--wholesale-only)
+  - [Export Policy – Wholesale Only](#export-policy-wholesale-only)
   - [Dismantling Services](#dismantling-services)
-  - [Packaging & Loading](#packaging--loading)
+  - [Packaging & Loading](#packaging-and-loading)
   - [Account Integration](#account-integration)
   - [Issue Invoice](#issue-invoice)
-  - [Delivery & Incoterms](#delivery--incoterms)
-  - [Input Consignee & Notify Party Details through Dashboard](#input-consignee--notify-party-details-through-dashboard)
-  - [Export & Shipping Documents](#export--shipping-documents)
+  - [Delivery & Incoterms](#delivery-and-incoterms)
+  - [Input Consignee & Notify Party Details through Dashboard](#input-consignee-and-notify-party-details-through-dashboard)
+  - [Export & Shipping Documents](#export-and-shipping-documents)
   - [Customer-Borne Costs (examples)](#customer-borne-costs-examples)
   - [ETAs](#etas)
-  - [Inspections & Claims](#inspections--claims)
-  - [Container Tracking & Status Updates](#container-tracking--status-updates)
-  - [Amendment & Cancellations](#amendment--cancellations)
+  - [Inspections & Claims](#inspections-and-claims)
+  - [Container Tracking & Status Updates](#container-tracking-and-status-updates)
+  - [Amendment & Cancellations](#amendment-and-cancellations)
   - [After-Sales Support](#after-sales-support)
   - [Communication Channels](#communication-channels)
 
@@ -130,20 +128,20 @@ This format is suitable for B2B and international clients, which increases trust
   - [Overview](#overview)
   - [Deposit Requirement](#deposit-requirement-1)
   - [Vehicle Sourcing](#vehicle-sourcing)
-  - [Vehicle Condition & Information](#vehicle-condition--information)
-  - [Auction Agent – Order Flow](#auction-agent--order-flow)
-  - [Stock Vehicles – Order Flow](#stock-vehicles--order-flow)
-  - [Inspections & Certificates (Optional / Destination-Driven)](#inspections--certificates-optional--destination-driven)
+  - [Vehicle Condition & Information](#vehicle-condition-and-information)
+  - [Auction Agent – Order Flow](#auction-agent-order-flow)
+  - [Stock Vehicles – Order Flow](#stock-vehicles-order-flow)
+  - [Inspections & Certificates (Optional / Destination-Driven)](#inspections-and-certificates-optional-destination-driven)
   - [Inland Logistics (Japan)](#inland-logistics-japan)
   - [Issue Invoice](#issue-invoice-1)
   - [Commercial Terms](#commercial-terms)
-  - [Cancellations (Auction / Stock)](#cancellations-auction--stock)
+  - [Cancellations (Auction / Stock)](#cancellations-auction-stock)
   - [Shipping Options (Incoterms 2020)](#shipping-options-incoterms-2020)
   - [Ro-Ro Shipment](#ro-ro-shipment)
   - [Container Shipment](#container-shipment)
-  - [Lashing & Securing](#lashing--securing)
-  - [Export & Shipping Documents](#export--shipping-documents-1)
-  - [Amendments & Delays](#amendments--delays)
+  - [Lashing & Securing](#lashing-and-securing)
+  - [Export & Shipping Documents](#export-and-shipping-documents-1)
+  - [Amendments & Delays](#amendments-and-delays)
   - [Claims](#claims)
   - [After-Sales Support](#after-sales-support-1)
   - [Communication Channels](#communication-channels-1)
@@ -154,8 +152,8 @@ This format is suitable for B2B and international clients, which increases trust
   - [What We Don’t Accept](#what-we-dont-accept)
   - [Who Can Deliver](#who-can-deliver)
   - [Delivery Process](#delivery-process)
-  - [Pricing & Transparency](#pricing--transparency)
-  - [Settlement & Payment](#settlement--payment)
+  - [Pricing & Transparency](#pricing-and-transparency)
+  - [Settlement & Payment](#settlement-and-payment)
 
 - [Auctions: How They Work (9)](#auctions-how-they-work-9)
   - [History of Development](#history-of-development)
@@ -168,13 +166,14 @@ This format is suitable for B2B and international clients, which increases trust
   - [Competing Bids from Our Clients](#competing-bids-from-our-clients)
   - [Auction Bills](#auction-bills)
   - [Auction Results](#auction-results)
-  - [Start Price & Desired Price](#start-price--desired-price)
+  - [Start Price & Desired Price](#start-price-and-desired-price)
   - [Cancelling a Mistaken Purchase](#cancelling-a-mistaken-purchase)
   - [Auction Cars vs Stock Cars](#auction-cars-vs-stock-cars)
   - [Land Transportation](#land-transportation)
-  - [Combined Ferry – Land Delivery](#combined-ferry--land-delivery)
+  - [Combined Ferry – Land Delivery](#combined-ferry-land-delivery)
   - [Cars from Satellite Auctions](#cars-from-satellite-auctions)
   - [Cars from AUCNET](#cars-from-aucnet)
+
 ## General (1)
 
 ### Our Core Business
@@ -304,6 +303,7 @@ A.A.N. Japan assists overseas customers with visa documentation.
 - Guidance on required documents (passport, forms).  
 - Deposit-based guarantee system (JPY 1,500,000 for new/lower-volume buyers).  
 - Deposit credited toward purchases or refunded if visa denied.  
+
 ## Account & Dashboard (2)
 
 ### Create an Account
@@ -357,6 +357,7 @@ Accounts may become **dormant** or **deleted** based on inactivity or client req
   - Client may request permanent deletion.  
   - Outstanding obligations must be settled first.  
   - Data retention aligned with Japanese corporate law (up to 10 years).  
+
 ## Contract Review & Deposit (3)
 
 ### Contract Review
@@ -432,6 +433,7 @@ Refunds are made via bank transfer to the originally registered account only.
 - Deposit transfer: 1–5 business days (international).  
 - Verification & activation: within 24 hours after receipt.  
 - Total estimated time: **3–7 business days**.  
+
 ## Bank Details & Payments (4)
 
 ### Domestic Bank Transfers (Japan)
@@ -496,6 +498,7 @@ Refunds are issued only to the registered account used for deposits/payments.
 - KYC checks applied to all accounts.  
 - Suspicious transfers reported under AML/CFT obligations.  
 - Clients must ensure transfers originate from their registered entity.  
+
 ## Wholesale Supply of Spare Parts (Japan) (5)
 
 ### Sourcing
@@ -609,6 +612,7 @@ Certain items reserved for wholesale buyers only (no retail):
 - **Paid** – funds received, parts allocated.  
 - **Ready for Pickup** – cleared for collection.  
 - **Completed** – transaction closed.  
+
 ## Export of Spare Parts (Wholesale) (6)
 
 ### General
@@ -751,6 +755,7 @@ This line of business is available only to verified overseas clients with valid 
 - Dashboard messaging system.  
 - Email notifications for critical updates.  
 - Emergency contact for shipment delays or port issues.  
+
 ## Export of Complete Vehicles (7)
 
 ### Overview
@@ -892,6 +897,7 @@ Services cover sourcing, documentation, shipping, and post-sales support.
 - Dashboard messaging system for updates.  
 - Email alerts for booking and shipping milestones.  
 - Emergency phone line for critical shipping issues.  
+
 ## Scrap Metal (8)
 
 ### Overview
@@ -963,6 +969,7 @@ Suppliers must be licensed domestic dismantling businesses.
 - Payments transferred to registered bank account.  
 - Frequency: monthly or bi-monthly (as chosen).  
 - Full settlement statement available in dashboard for each delivery.  
+
 ## Auctions: How They Work (9)
 
 ### History of Development
@@ -1129,89 +1136,64 @@ For island/remote locations (Hokkaido, Shikoku, Kyushu, Okinawa).
 - No physical yards — cars scattered nationwide.  
 - Virtual only (Mondays).  
 - Transport calculated per unit.  
-- Pre-inspection not possible.   -->
-  <script type="text/markdown" id="md">
-# Support
-A short explanatory text block (not question–answer, but a mini-article).
-It looks more professional (similar to AWS, IBM, Microsoft Docs).
-The content is presented in concise reference blocks.
-It can be expanded without limitation — each topic becomes a “mini-article.”
-This format is suitable for B2B and international clients, which increases trust.
-
-## Table of Contents
-- [General (1)](#general-1)
-- [Account & Dashboard (2)](#account--dashboard-2)
-- [Contract Review & Deposit (3)](#contract-review--deposit-3)
-- [Bank Details & Payments (4)](#bank-details--payments-4)
-- [Wholesale Supply of Spare Parts (Japan) (5)](#wholesale-supply-of-spare-parts-japan-5)
-- [Export of Spare Parts (Wholesale) (6)](#export-of-spare-parts-wholesale-6)
-- [Export of Complete Vehicles (7)](#export-of-complete-vehicles-7)
-- [Scrap Metal (8)](#scrap-metal-8)
-- [Auctions: How They Work (9)](#auctions-how-they-work-9)
-
-<!-- ▶▶▶ СЮДА ВСТАВЬТЕ ВСЕ РАЗДЕЛЫ, КОТОРЫЕ МЫ УЖЕ ПОДГОТОВИЛИ (General, Account..., и т.д.) ◀◀◀ -->
-<!-- Можно оставить TOC выше, а дальше вставить весь контент блоками, как выслал ранее. -->
+- Pre-inspection not possible.  
   </script>
 
   <script>
-    // --- Настройки Marked ---
-    marked.setOptions({
-      headerIds: true,
-      mangle: false, // чтобы не ломать якоря со спецсимволами
-    });
+    // Настройки Marked
+    marked.setOptions({ headerIds: true, mangle: false });
 
-    // --- Рендер Markdown ---
+    // Рендер Markdown
     const src = document.getElementById('md').textContent;
     const app = document.getElementById('app');
     app.innerHTML = marked.parse(src);
 
-    // --- Поддержка ссылок вида "#/slug" и обычных "#slug" + плавный скролл ---
-    function slugFromHash(rawHash) {
-      if (!rawHash) return "";
-      return rawHash.startsWith("#/") ? rawHash.slice(2) : rawHash.replace(/^#/, "");
-    }
-    function scrollToSlug(slug) {
-      if (!slug) return;
-      const el = document.getElementById(slug);
-      if (el) el.scrollIntoView({behavior: "smooth", block: "start"});
-    }
-
-    // Проставим id на заголовки по "GitHub-подобному" слагу, если Marked сгенерил иначе
+    // Генерация slug/id для заголовков + уникальность
     function normalizeHeadingIds() {
-      const headings = app.querySelectorAll("h1, h2, h3, h4, h5, h6");
+      const headings = app.querySelectorAll("h1,h2,h3,h4,h5,h6");
+      const used = {};
       headings.forEach(h => {
-        // формируем предсказуемый slug (приближение к GitHub)
         const base = h.textContent
           .toLowerCase()
-          .replace(/[\u2013\u2014]/g, "-")
-          .replace(/[^a-z0-9\u0400-\u04FF\- &/()]/g, "")   // оставляем буквы/цифры/дефис/пробел и немного пунктуации
-          .replace(/\s+/g, "-")
-          .replace(/-+/g, "-")
+          .replace(/[\u2013\u2014]/g, "-")   // – —
           .replace(/&/g, "and")
           .replace(/[()]/g, "")
-          .trim();
-        // если id уже есть — оставим; иначе проставим
-        if (!h.id) h.id = base;
+          .replace(/[^a-z0-9\u0400-\u04FF\- ]/g, "")
+          .trim()
+          .replace(/\s+/g,"-")
+          .replace(/-+/g,"-");
+        let slug = base || "section";
+        if (used[slug] !== undefined) {
+          used[slug] += 1;
+          slug = `${slug}-${used[slug]}`;
+        } else {
+          used[slug] = 0;
+        }
+        h.id = slug;
       });
     }
     normalizeHeadingIds();
 
-    // Переход при загрузке
-    window.addEventListener("load", () => scrollToSlug(slugFromHash(location.hash)));
-    // Переход при смене hash
-    window.addEventListener("hashchange", () => scrollToSlug(slugFromHash(location.hash)));
-
-    // Перехватываем клики по ссылкам "#..." и записываем как "#/slug" (чтоб работало в SPA-хеш-маршрутизаторе)
-    document.addEventListener("click", (e) => {
-      const a = e.target.closest('a[href^="#"]');
-      if (!a) return;
-      const href = a.getAttribute("href");
-      const slug = slugFromHash(href);
+    // Поддержка #/slug и #slug + плавный скролл
+    function slugFromHash(h){ if(!h) return ""; return h.startsWith("#/")?h.slice(2):h.replace(/^#/,""); }
+    function scrollToSlug(slug){
+      if(!slug) return;
       const el = document.getElementById(slug);
-      if (el) {
+      if(el) el.scrollIntoView({behavior:"smooth", block:"start"});
+    }
+    window.addEventListener("load", ()=> scrollToSlug(slugFromHash(location.hash)));
+    window.addEventListener("hashchange", ()=> scrollToSlug(slugFromHash(location.hash)));
+
+    // Перехват клика по ссылкам "#..."
+    document.addEventListener("click", (e)=>{
+      const a = e.target.closest('a[href^="#"]');
+      if(!a) return;
+      const slug = slugFromHash(a.getAttribute("href"));
+      const el = document.getElementById(slug);
+      if(el){
         e.preventDefault();
-        history.pushState(null, "", "#/" + slug);
-        el.scrollIntoView({behavior: "smooth", block: "start"});
+        history.pushState(null,"","#/"+slug);
+        el.scrollIntoView({behavior:"smooth", block:"start"});
       }
     });
   </script>
